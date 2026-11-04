@@ -1,0 +1,642 @@
+{
+  "cookies": {
+    "title": "Podešavanje privatnosti i kolačića",
+    "description": "Koristimo kolačiće kako bismo vam obezbedili najbolje korisničko iskustvo, analizirali posete i omogućili siguran rad sajta.",
+    "acceptAll": "Prihvati sve",
+    "necessaryOnly": "Samo neophodni",
+    "settings": "Prilagodi",
+    "save": "Sačuvaj izbore",
+    "necessaryTitle": "Neophodni kolačići",
+    "necessaryDesc": "Omogućavaju osnovne funkcije sajta poput navigacije, bezbednosti i izbora jezika. Ovi kolačići se ne mogu isključiti.",
+    "analyticsTitle": "Analitički kolačići",
+    "analyticsDesc": "Pomažu nam da razumemo kako posetioci koriste sajt, kako bismo poboljšali funkcionalnosti i brzinu.",
+    "preferencesTitle": "Kolačići podešavanja",
+    "preferencesDesc": "Pamte vaše lične preference poput izabranog jezika i prikaza.",
+    "cookiePolicy": "Saznajte više o našoj politici kolačića",
+    "manageCookies": "Podešavanje kolačića"
+  },
+  "metadata": {
+    "title": "Domovik — Redovni obilasci i briga o domu u Srbiji",
+    "description": "Redovni obilasci, provera stanja, foto i video izveštaji i dodatne usluge održavanja za kuće i stanove u Srbiji."
+  },
+  "dashboard": {
+    "title": "Klijentski portal",
+    "welcome": "Dobrodošli nazad",
+    "property": "Moja nekretnina",
+    "plan": "Aktivni paket",
+    "nextVisit": "Sledeći planirani obilazak",
+    "securityStatus": "Status objekta",
+    "allSecure": "Sve u redu",
+    "lastReport": "Poslednji izveštaj",
+    "visitHistory": "Istorija obilazaka",
+    "documents": "Dokumenti i ugovori",
+    "requestService": "Naruči dodatnu uslugu",
+    "settings": "Podešavanja profila",
+    "logout": "Odjavi se",
+    "viewReport": "Pogledaj izveštaj",
+    "downloadPdf": "Preuzmi PDF",
+    "photos": "Fotografije",
+    "videoClip": "Video snimak",
+    "checklistStatus": "Kontrolna lista",
+    "meters": "Stanja merača",
+    "electricity": "Struja",
+    "water": "Voda",
+    "incidents": "Incidenti",
+    "zeroIncidents": "0 zabeleženih nepravilnosti",
+    "demoClient": "Demo Klijent",
+    "quickDemoLogin": "Brza prijava — Isprobajte demo nalog",
+    "demoNotice": "Prikazuje se radno okruženje klijenta sa stvarnom simulacijom izveštaja, GPS žigom i video arhivom.",
+    "newRequestTitle": "Zahtev za vanrednu ili dodatnu uslugu",
+    "serviceType": "Vrsta usluge",
+    "datePreferred": "Željeni datum realizacije",
+    "urgency": "Hitnost",
+    "submitRequest": "Pošalji zahtev",
+    "requestSuccess": "Zahtev uspešno poslat! Koordinator će vas kontaktirati.",
+    "contractSigned": "Aktivan pisani ugovor",
+    "keysSafe": "Ključevi po dogovoru",
+    "viewContract": "Pogledaj ugovor"
+  },
+  "nav": {
+    "home": "Početna",
+    "services": "Usluge i cene",
+    "visitChecklist": "Protokol obilaska",
+    "contract": "Ugovor i garancije",
+    "about": "O nama",
+    "contact": "Kontakt",
+    "dashboard": "Moj nalog",
+    "login": "Prijava",
+    "requestQuote": "Zatražite ponudu",
+    "skener": "3D Skener",
+    "protection": "Briga",
+    "comparison": "Poređenje",
+    "pricing": "Cene",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "Redovna briga o vašoj imovini u Srbiji",
+    "title": "Vaš dom redovno pregledan dok ste daleko",
+    "subtitle": "Redovni obilasci, detaljni video i foto-izveštaji i provera stanja instalacija. Miran san za vlasnike koji žive i rade u inostranstvu.",
+    "ctaApply": "Ostavite zahtev",
+    "ctaPricing": "Pogledajte pakete",
+    "stat1Value": "100%",
+    "stat1Label": "Video i foto dokumentacija",
+    "stat2Value": "Redovno",
+    "stat2Label": "Obilasci po dogovoru",
+    "stat3Value": "Pravni",
+    "stat3Label": "Ugovor o poverenju"
+  },
+  "howItWorks": {
+    "title": "Kako funkcioniše saradnja?",
+    "subtitle": "Jednostavan i potpuno transparentan proces u 4 koraka.",
+    "step1Title": "1. Prijava i procena",
+    "step1Desc": "Ostavite osnovne podatke o objektu i lokaciji putem formulara ili poruke.",
+    "step2Title": "2. Dogovor i ugovor",
+    "step2Desc": "Definišemo raspored obilazaka, preuzimanje ključeva i potpisujemo ugovor.",
+    "step3Title": "3. Redovni obilazak",
+    "step3Desc": "Obilazimo nekretninu, snimamo video, pregledamo instalacije i stanje objekta.",
+    "step4Title": "4. Izveštaj na dlanu",
+    "step4Desc": "Istog dana dobijate kompletan izveštaj sa fotografijama na WhatsApp ili portal."
+  },
+  "baseServices": {
+    "title": "Šta uključuje svaki redovni obilazak?",
+    "subtitle": "Temeljan pregled ključnih tačaka kuće ili stana pri svakom dolasku.",
+    "inspection": "Vizuelni pregled eksterijera i enterijera na oštećenja i tragove vlage",
+    "windowsDoors": "Provera prozora, balkonskih vrata, brava i rešetki",
+    "utilities": "Kontrola strujomera, vodomera, provera slavina i odsustva curenja",
+    "mailYard": "Pražnjenje poštanskog sandučeta i osnovni pregled dvorišta i ograde",
+    "photoReport": "Detaljan foto-izveštaj sa tačnim datumom, vremenom i geolokacijom",
+    "problemAlert": "Hitno obaveštavanje vlasnika u slučaju bilo kakve uočene nepravilnosti",
+    "callSpecialist": "Organizacija i koordinacija majstora (vodoinstalater, električar, staklar) po odobrenju"
+  },
+  "additionalServices": {
+    "title": "Dodatne usluge po vašoj želji",
+    "subtitle": "Prilagođavamo se vašim specifičnim potrebama i dinamici.",
+    "onDemand": "Po dogovoru",
+    "cleaning": {
+      "title": "Generalno i periodično čišćenje",
+      "desc": "Temeljno čišćenje pre vašeg dolaska ili nakon dužeg odsustva."
+    },
+    "yardCare": {
+      "title": "Održavanje dvorišta i trave",
+      "desc": "Košenje trave, orezivanje žive ograde, čišćenje snega i lišća."
+    },
+    "petCare": {
+      "title": "Briga o kućnim ljubimcima",
+      "desc": "Hranjenje i nega životinja koje ostaju na imanju tokom kraćih odsustava."
+    },
+    "plantWatering": {
+      "title": "Zalivanje biljaka i bašte",
+      "desc": "Redovno zalivanje sobnih biljaka, žardinjera i travnjaka."
+    },
+    "ventilation": {
+      "title": "Temeljno provetravanje",
+      "desc": "Otvaranje prozora radi sprečavanja zagušljivosti i pojave buđi."
+    },
+    "prepareArrival": {
+      "title": "Priprema doma za vaš dolazak",
+      "desc": "Uključivanje grejanja/hlađenja, tople vode, provetravanje i osnovna nabavka."
+    },
+    "eyebrow": "Dodatne usluge"
+  },
+  "targetAudience": {
+    "title": "Kome je namenjen naš servis?",
+    "subtitle": "Specijalizovani smo za vlasnike koji fizički ne mogu redovno obilaziti svoj dom.",
+    "diaspora": {
+      "title": "Dijaspora (Nemačka, Austrija, Švajcarska)",
+      "desc": "Živite i radite u inostranstvu i želite redovnu proveru da je vaša porodična kuća u Srbiji u dobrom stanju."
+    },
+    "foreignOwners": {
+      "title": "Strani državljani sa nekretninama u Srbiji",
+      "desc": "Vlasnici vikendica ili stanova koji traže pouzdanog partnera koji govori njihov jezik."
+    },
+    "travelWorkers": {
+      "title": "Ljudi na terenskom radu i pomorci",
+      "desc": "Vozači kamiona, pomorci i radnici na naftnim platformama koji mesecima nisu kod kuće."
+    },
+    "rentalOwners": {
+      "title": "Vlasnici stanova na dan i privremeni zakup",
+      "desc": "Inspekcija objekta između boravaka gostiju, provera štete i spremnosti za prijem."
+    },
+    "eyebrow": "Kome je namenjeno"
+  },
+  "trust": {
+    "title": "Zašto možete imati apsolutno poverenje?",
+    "subtitle": "Gradimo odnos na transparentnosti, ugovornoj obavezi i dokazivim izveštajima.",
+    "videoEvery": {
+      "title": "Video zapis svakog obilaska",
+      "desc": "Dolazak do kuće, pregled prostorija i odlazak beleže se na video snimku koji se čuva u arhivi."
+    },
+    "writtenContract": {
+      "title": "Pismeni pravno važeći ugovor",
+      "desc": "Jasno definisane obaveze, dogovor o ključevima i granice odgovornosti."
+    },
+    "geoPhotos": {
+      "title": "Fotografije sa vremenskim žigom",
+      "desc": "Sve fotografije sadrže tačno vreme, datum i GPS lokaciju trenutka kada su snimljene."
+    },
+    "transparentPricing": {
+      "title": "Fiksne i transparentne cene",
+      "desc": "Nema skrivenih troškova. Svaki dodatni rad se prethodno dogovara i potvrđuje sa vama."
+    },
+    "eyebrow": "Naš pristup"
+  },
+  "pricing": {
+    "title": "Paketi i cene",
+    "subtitle": "Odaberite učestalost obilazaka koja najbolje odgovara vašoj nekretnini.",
+    "popular": "Najtraženiji",
+    "choosePlan": "Izaberite paket",
+    "perMonth": "/ mesečno",
+    "basic": {
+      "name": "Osnovni",
+      "price": "€49",
+      "desc": "1 obilazak mesečno — za stanove i novije objekte",
+      "features": [
+        "1 detaljan obilazak mesečno",
+        "Vizuelni pregled instalacija i brava",
+        "Foto-izveštaj (10-15 slika)",
+        "Pražnjenje poštanskog sandučeta",
+        "Izveštaj na WhatsApp ili email"
+      ]
+    },
+    "plus": {
+      "name": "Standard Plus",
+      "price": "€89",
+      "desc": "2 obilaska mesečno (svake 2 nedelje) — optimalna briga",
+      "features": [
+        "2 detaljna obilaska mesečno",
+        "Kompletan video-snimak svakog dolaska",
+        "Detaljna provera vode, struje i gasa",
+        "Organizacija i koordinacija majstora bez provizije",
+        "Prioritetno reagovanje u slučaju nevremena",
+        "Pristup klijentskom portalu"
+      ]
+    },
+    "premium": {
+      "name": "Premijum",
+      "price": "€149",
+      "desc": "4 obilaska mesečno (jednom nedeljno) — maksimalan mir",
+      "features": [
+        "4 detaljna obilaska mesečno (nedeljno)",
+        "Kompletan video i foto-izveštaj sa geolokacijom",
+        "Zalivanje sobnih biljaka uključeno",
+        "Organizacija i nadzor majstora bez provizije",
+        "Priprema kuće pred vaš dolazak (2x godišnje)",
+        "Direktan telefonski kontakt sa koordinatorom"
+      ]
+    },
+    "rentalNote": "Za stanove na dan i specifične zahteve kreiramo individualnu ponudu.",
+    "customNote": "Tačna cena se formira nakon definisanja lokacije i obima potrebnih usluga.",
+    "monthly": "Mesečno plaćanje",
+    "semiAnnual": "Polugodišnje / Godišnje",
+    "discount": "-15% popust",
+    "savings": "Ušteda 15%",
+    "badge": "Jasno i fiksno"
+  },
+  "faq": {
+    "title": "Često postavljana pitanja",
+    "subtitle": "Odgovori na nedoumice koje najčešće interesuju vlasnike nekretnina.",
+    "q1": "Šta se dešava ako uočite kvar, curenje vode ili oštećenje?",
+    "a1": "Odmah vas kontaktiramo i šaljemo foto/video dokaz. Za uočene kvarove predlažemo sledeće korake i, uz vašu saglasnost, koordiniramo majstora. Domovik ne pruža usluge obezbeđenja niti garantuje sprečavanje provala.",
+    "q2": "Kako se čuvaju ključevi moje kuće?",
+    "a2": "Ključevi se preuzimaju uz potpisani revers i čuvaju u namenskom protivpožarnom sefu sa šifrom. Svako izuzimanje ključa se beleži u evidenciju sa vremenom i potpisom.",
+    "q3": "Kako mogu biti siguran da ste zaista obišli kuću?",
+    "a3": "Svaki obilazak prate originalne fotografije i video snimak sa metapodacima (tačno vreme, datum i GPS koordinate lokacije).",
+    "q4": "Da li je moguće ugovoriti samo jednokratni obilazak?",
+    "a4": "Da, nudimo uslugu vanrednog jednokratnog obilaska — na primer nakon jakog nevremena, grada ili ako vam je potreban hitan prijem dostave.",
+    "q5": "Da li možete da obavite dodatne usluge?",
+    "a5": "Da — polivanje biljaka, košenje trave, obrezivanje drveća, čišćenje i pripremu doma za dolazak. Dodatne usluge se dogovaraju i naplaćuju posebno.",
+    "q6": "Koja je vaša odgovornost?",
+    "a6": "Pružamo redovne obilaske, proveru stanja i izveštaje u skladu sa ugovorom. Nismo agencija za obezbeđenje i ne garantujemo bezbednost objekta."
+  },
+  "cta": {
+    "title": "Poverite brigu o svom domu",
+    "subtitle": "Javite nam se za besplatnu konsultaciju i personalizovanu ponudu.",
+    "button": "Pošaljite upit"
+  },
+  "contactForm": {
+    "title": "Zatražite besplatnu procenu",
+    "subtitle": "Ispunite kratak formular i odgovorićemo vam u roku od nekoliko sati.",
+    "name": "Vaše ime i prezime",
+    "namePlaceholder": "npr. Petar Petrović",
+    "phone": "Broj telefona (Viber / WhatsApp)",
+    "phonePlaceholder": "+381 60 123 4567 ili +49 170...",
+    "email": "Email adresa",
+    "emailPlaceholder": "petar@primer.com",
+    "city": "Grad / Opština nekretnine",
+    "cityPlaceholder": "npr. Novi Sad, Subotica, Zrenjanin...",
+    "propertyType": "Tip nekretnine",
+    "selectType": "Odaberite tip objekta",
+    "house": "Porodična kuća sa dvorištem",
+    "apartment": "Stan u zgradi",
+    "rental": "Apartman za kratkoročno izdavanje",
+    "comment": "Napomena ili specifični zahtevi (opciono)",
+    "commentPlaceholder": "Npr. potrebno zalivanje bašte, kuća je na osami, itd.",
+    "consent": "Saglasan/na sam sa obradom unetih podataka radi ostvarivanja kontakta i izrade ponude.",
+    "submit": "Pošaljite zahtev",
+    "sending": "Slanje...",
+    "successTitle": "Hvala vam na upitu!",
+    "successMessage": "Vaš zahtev je uspešno prosleđen. Kontaktiraćemo vas u najkraćem roku.",
+    "errorTitle": "Greška pri slanju",
+    "errorMessage": "Došlo je do greške. Molimo vas da pokušate ponovo ili nas pozovete direktno.",
+    "sendAnother": "Pošaljite još jedan upit"
+  },
+  "contact": {
+    "title": "Direktan kontakt",
+    "subtitle": "Dostupni smo za sve upite svakog radnog dana.",
+    "phone": "Telefon",
+    "phoneVal": "+381 60 000 0000",
+    "email": "Email",
+    "emailVal": "info@domovik.rs",
+    "workingHours": "Radno vreme",
+    "workingHoursVal": "Ponedeljak – Subota: 08:00 – 20:00",
+    "serviceArea": "Područje rada",
+    "serviceAreaVal": "Vojvodina i Beograd sa okolinom (Novi Sad, Subotica, Zrenjanin, Sombor, Pančevo, Beograd)",
+    "whatsapp": "Pišite nam na WhatsApp",
+    "viber": "Pišite nam na Viber",
+    "emergencyNote": "Domovik nije agencija za obezbeđenje i ne pruža usluge fizičkog obezbeđenja. Redovno obilazimo objekat, proveravamo njegovo stanje i o svemu vas obaveštavamo izveštajem."
+  },
+  "servicesPage": {
+    "title": "Naše usluge i paketi",
+    "subtitle": "Redovni obilasci, provera stanja, izveštaji i dodatne usluge održavanja.",
+    "introTitle": "Zašto je redovna provera neophodna?",
+    "introText": "Prazna kuća može brzo da nakupi vlagu, prašinu i neprimećene probleme. Redovnim obilascima na vreme uočavamo curenja, oštećenja i promene na objektu. Domovik je vaša lokalna podrška dok niste prisutni.",
+    "includedTitle": "Standardni protokol svakog obilaska",
+    "extraTitle": "Dopunske usluge po zahtevu",
+    "pricingTitle": "Pregled mesečnih paketa"
+  },
+  "visitChecklist": {
+    "title": "Protokol i kontrolna lista obilaska",
+    "subtitle": "Tačno 15 koraka koje naš saradnik prolazi tokom svakog obilaska nekretnine.",
+    "notice": "Svi video snimci i fotografije se arhiviraju na privatnom serveru i dostupni su vlasniku u svakom trenutku.",
+    "steps": [
+      {
+        "title": "1. Dolazak i GPS prijava",
+        "desc": "Zabeležavanje tačnog vremena dolaska na adresu preko aplikacije."
+      },
+      {
+        "title": "2. Početak video zapisa",
+        "desc": "Aktivacija kamere visoke rezolucije pri prilasku kapiji i objektu."
+      },
+      {
+        "title": "3. Pregled perimetra",
+        "desc": "Inspekcija spoljne ograde, kapije, stanja oluka i prilazne staze."
+      },
+      {
+        "title": "4. Provera ulaznih vrata i brava",
+        "desc": "Fizička provera ispravnosti brava i dovratnika."
+      },
+      {
+        "title": "5. Provera svih prozora i roletni",
+        "desc": "Pregled stakala, mehanizama za zatvaranje i roletni."
+      },
+      {
+        "title": "6. Kontrola vodovodnih instalacija",
+        "desc": "Očitavanje vodomera, provera slavina, ventila i tragova curenja ili vlage."
+      },
+      {
+        "title": "7. Kontrola elektro-instalacija",
+        "desc": "Pregled razvodnog ormana, rad frižidera/zamrzivača ako rade, osigurača."
+      },
+      {
+        "title": "8. Pražnjenje poštanskog sandučeta",
+        "desc": "Prikupljanje pošte i računa, fotografisanje važnih pošiljki i slanje vlasniku."
+      },
+      {
+        "title": "9. Pregled dvorišta i bašte",
+        "desc": "Uočavanje eventualnog pada grana, stanja trave, drenaže nakon kiše."
+      },
+      {
+        "title": "10. Unutrašnji pregled prostorija",
+        "desc": "Provera zidova, plafona (tragovi prokišnjavanja), podova i mirisa."
+      },
+      {
+        "title": "Provera senzora i uređaja",
+        "desc": "Provera detektora dima i baterija na instaliranim uređajima."
+      },
+      {
+        "title": "12. Foto-fiksacija ključnih zona",
+        "desc": "Slikanje kontrolnih tačaka sa vremenskim žigom."
+      },
+      {
+        "title": "13. Završetak video zapisa",
+        "desc": "Zatvaranje objekta i kapije i konačna provera stanja."
+      },
+      {
+        "title": "14. Slanje digitalnog izveštaja",
+        "desc": "Izveštaj sa slikama se automatski šalje na vaš WhatsApp ili portal."
+      },
+      {
+        "title": "15. Postupanje kod nepravilnosti",
+        "desc": "Ako je primećen problem, momentalno zovemo vlasnika i preduzimamo mere."
+      }
+    ]
+  },
+  "contractPage": {
+    "title": "Ugovor i pravna odgovornost",
+    "subtitle": "Poštujemo vašu imovinu i radimo isključivo na osnovu transparentnog pisanog ugovora.",
+    "intro": "Poveriti ključ svog doma nekome je velika odluka. Zato je svaki segment naše saradnje zakonski definisan.",
+    "pillars": [
+      {
+        "title": "Šta radimo",
+        "desc": "Redovni obilasci, provera stanja, provetravanje, video/foto izveštavanje i koordinacija dodatnih usluga."
+      },
+      {
+        "title": "Šta NE radimo",
+        "desc": "Nismo agencija za obezbeđenje i ne pružamo usluge fizičkog obezbeđenja. Ne garantujemo bezbednost objekta; pružamo redovne provere, dokumentaciju i pravovremeno obaveštenje vlasnika."
+      },
+      {
+        "title": "Postupanje sa ključevima",
+        "desc": "Ako je potrebno, ključevi se preuzimaju po dogovoru i evidentiraju. Detalji se uređuju ugovorom."
+      },
+      {
+        "title": "Zaštita privatnosti i podataka",
+        "desc": "Snimci i fotografije se čuvaju na enkriptovanim diskovima i nikada se ne objavljuju javno niti ustupaju trećim licima."
+      }
+    ],
+    "emergencyTitle": "Postupanje u vanrednim situacijama",
+    "emergencySteps": [
+      "1. Fizička i video dokumentacija zatečenog stanja bez remećenja tragova.",
+      "2. Momentalan telefonski poziv vlasniku.",
+      "Ako vlasnik nije dostupan: postupanje po unapred dogovorenom planu i obaveštenje nadležnih službi ako je potrebno.",
+      "4. U slučaju havarije vode: zatvaranje glavnog ventila i angažovanje dežurne ekipe.",
+      "Pisani izveštaj o događaju i preduzetim koracima."
+    ],
+    "downloadTitle": "Preuzmite nacrt ugovora",
+    "downloadDesc": "Pogledajte standardni primerak ugovora sa svim pravnim klauzulama pre početka saradnje.",
+    "downloadBtn": "Preuzmite primerak ugovora (PDF)"
+  },
+  "about": {
+    "title": "O servisu Domovik",
+    "subtitle": "Lokalni, pouzdani i posvećeni čuvari vašeg doma u Srbiji.",
+    "storyTitle": "Kako je nastao Domovik?",
+    "storyText": "Sve je počelo iz ličnog iskustva: prijatelji i rođaci koji žive u Beču, Minhenu i Cirihu stalno su brinuli o svojim kućama u domovini. Da li je oluja oštetila crep? Da li je zamrzivač ostao bez struje? Da li se nakupila neplaćena pošta? Shvatili smo da moljenje komšija često stvara neprijatnost i ne garantuje profesionalnost. Domovik je nastao da pruži institucionalnu pouzdanost, bez kompromisa.",
+    "valuesTitle": "Naša 4 stuba poslovanja",
+    "v1Title": "Besprekorno poverenje",
+    "v1Desc": "Čuvamo vašu imovinu kao sopstvenu, uz punu diskreciju i poštovanje privatnosti.",
+    "v2Title": "Pouzdanost u reči i vremenu",
+    "v2Desc": "Dogovoreni raspored se poštuje bez izgovora, u svim vremenskim prilikama.",
+    "v3Title": "Apsolutna transparentnost",
+    "v3Desc": "Svaki korak i svaka nepravilnost se dokumentuje video i foto zapisom bez ulepšavanja.",
+    "v4Title": "Jasna komunikacija",
+    "v4Desc": "Dostupni smo na modernim kanalima (WhatsApp, Viber) u realnom vremenu."
+  },
+  "footer": {
+    "description": "Redovni obilasci, provera stanja i održavanje kuća i stanova u Srbiji.",
+    "navigation": "Navigacija",
+    "servicesTitle": "Usluge",
+    "legalTitle": "Pravno",
+    "privacy": "Politika privatnosti",
+    "terms": "Uslovi korišćenja",
+    "rights": "Sva prava zadržana.",
+    "directLine": "WhatsApp / Viber direktna linija"
+  },
+  "common": {
+    "readMore": "Saznajte više",
+    "back": "Nazad",
+    "send": "Pošaljite",
+    "applyNow": "Prijavite se",
+    "learnMore": "Detaljnije",
+    "phone": "Pozovite nas",
+    "callUs": "Poziv"
+  },
+  "landing": {
+    "hero": {
+      "slides": [
+        {
+          "badge": "Redovna briga o vašoj imovini u Srbiji",
+          "title": "Vaš dom redovno pregledan dok ste daleko",
+          "description": "Redovni obilasci, detaljni video i foto-izveštaji i provera stanja instalacija. Miran san za vlasnike koji žive i rade u inostranstvu.",
+          "imageAlt": "Porodična kuća u Novom Sadu — redovna provera stanja",
+          "topBadgeLabel": "Redovan obilazak",
+          "topBadgeValue": "Stanje objekta zabeleženo",
+          "bottomBadgeLabel": "Foto i video izveštaj",
+          "bottomBadgeValue": "Svaki detalj dokumentovan",
+          "location": "Vojvodina & Beograd",
+          "primaryLabel": "Zakažite obilazak",
+          "secondaryLabel": "Otvori Demo Portal",
+          "checklist": [
+            "Redovni obilasci",
+            "Foto i video izveštaj",
+            "Dodatne usluge po dogovoru"
+          ]
+        },
+        {
+          "badge": "Digitalni izveštaj nakon svakog obilaska",
+          "title": "Svaki detalj vašeg doma, na vašem telefonu",
+          "description": "Video zapis, fotografije sa datumom i lokacijom i kompletna kontrolna lista stižu na WhatsApp i email nakon svakog obilaska.",
+          "imageAlt": "Kuća u Vojvodini — primer izveštaja sa obilaska",
+          "topBadgeLabel": "Izveštaj #048",
+          "topBadgeValue": "Završeno • Novi Sad",
+          "bottomBadgeLabel": "Datum, vreme i lokacija",
+          "bottomBadgeValue": "45.2238° N, 19.8451° E",
+          "location": "Novi Sad, Sremska Kamenica",
+          "primaryLabel": "Pogledajte primer izveštaja",
+          "secondaryLabel": "Kako izgleda obilazak",
+          "checklist": [
+            "Foto i video zapis",
+            "Kontrolna lista od 15 tačaka",
+            "Izveštaj na WhatsApp i email"
+          ]
+        },
+        {
+          "badge": "Dodatne usluge po dogovoru",
+          "title": "Više od obilaska — briga o vašem domu",
+          "description": "Polivanje cveća, košenje trave, obrezivanje drveća, čišćenje i priprema doma za vaš dolazak. Sve po dogovoru i posebnoj ceni.",
+          "imageAlt": "Održavanje dvorišta i trave",
+          "topBadgeLabel": "Dodatne usluge",
+          "topBadgeValue": "Po dogovoru",
+          "bottomBadgeLabel": "Za vaš dom",
+          "bottomBadgeValue": "Spreman za dolazak",
+          "location": "Vojvodina & Beograd",
+          "primaryLabel": "Zakažite uslugu",
+          "secondaryLabel": "Pogledajte usluge",
+          "checklist": [
+            "Polivanje biljaka",
+            "Košenje i obrezivanje",
+            "Čišćenje i priprema doma"
+          ]
+        }
+      ],
+      "previous": "Prethodni slajd",
+      "next": "Sledeći slajd",
+      "slideLabel": "Slajd {index}: {title}",
+      "scroll": "Skrolujte",
+      "live": "Uživo"
+    },
+    "threeD": {
+      "badge": "Interaktivni 3D pregled objekta",
+      "title": "Potpuni uvid u svaku zonu vaše kuće",
+      "subtitle": "Kliknite na tačke na kući i pogledajte koje delove objekta naš tim proverava tokom redovnog obilaska.",
+      "hud": "PRIKAZ: Redovan pregled",
+      "security": "Spolja",
+      "utilities": "Instalacije",
+      "greenZone": "5 od 5 tačaka pregleda zabeleženo",
+      "selected": "Izabrano: {name}",
+      "quickSelect": "Brzi izbor tačke pregleda:",
+      "hotspots": [
+        {
+          "name": "Ulazna vrata",
+          "category": "Spolja",
+          "value": "Zatvoreno • Provereno",
+          "detail": "Vizuelna provera ulaznih vrata i brave pri svakom obilasku."
+        },
+        {
+          "name": "Vodovodni čvor i ventili",
+          "category": "Instalacije",
+          "value": "Bez vidljivih curenja",
+          "detail": "Provera vodomera, ventila i slavina. Uočene nepravilnosti dokumentujemo i javljamo vam."
+        },
+        {
+          "name": "Elektro-razvodni orman",
+          "category": "Instalacije",
+          "value": "Stanje zabeleženo",
+          "detail": "Očitavanje potrošnje i vizuelna provera osigurača."
+        },
+        {
+          "name": "Prozori i roletne",
+          "category": "Spolja",
+          "value": "Zatvoreno • Provereno",
+          "detail": "Provera prozora, balkonskih vrata i roletni."
+        },
+        {
+          "name": "Fasada, oluci i prilaz",
+          "category": "Eksterijer",
+          "value": "Pregledano",
+          "detail": "Vizuelni pregled fasade, oluka i prilaza."
+        }
+      ],
+      "imageAlt": "Kuća u Vojvodini — primer objekta"
+    },
+    "services": {
+      "badge": "Standardni protokol",
+      "titles": [
+        "Vizuelna inspekcija",
+        "Brave i prozori",
+        "Voda i struja",
+        "Pošta i dvorište",
+        "Foto-izveštaj",
+        "Koordinacija majstora"
+      ],
+      "perVisit": "U svakom obilasku",
+      "bannerTitle": "Želite detaljan uvid u svaki korak?",
+      "bannerText": "Pogledajte naš kompletan standardni protokol od 15 tačaka inspekcije, od dolaska do slanja izveštaja.",
+      "previousServices": "Prethodne usluge",
+      "nextServices": "Sledeće usluge"
+    },
+    "comparison": {
+      "badge": "Interaktivno poređenje",
+      "title": "Razlika koju primećujete i vi i komšije",
+      "subtitle": "Povucite klizač i uporedite kako izgleda kuća bez redovne brige i kuća koja se redovno obilazi i održava.",
+      "afterBadge": "Uz redovnu brigu",
+      "beforeBadge": "Bez redovne brige",
+      "afterTitle": "Uredno i pregledno",
+      "afterText": "Trava pokošena, sanduče ispražnjeno, ventili provereni, stanje zabeleženo.",
+      "beforeTitle": "Zanemareno i neprimetno",
+      "beforeText": "Zarastao korov, prepuno sanduče, neprimećena vlaga.",
+      "mobileAfter": "Uz Domovik",
+      "mobileBefore": "Bez brige",
+      "helper": "Ilustracija: vojvođanska kuća — povucite klizač za prikaz razlike",
+      "aria": "Klizač za poređenje stanja kuće"
+    },
+    "bento": {
+      "badge": "Moderan standard brige",
+      "title": "Sve što obuhvata briga o vašem domu",
+      "subtitle": "Redovni obilasci, digitalni izveštaji i dodatne usluge po dogovoru — sve na jednom mestu.",
+      "rec": "REC • 1080p HD",
+      "gps": "GPS + vreme",
+      "videoLabel": "Video i foto dokumentacija",
+      "videoTitle": "Svaki obilazak je dokumentovan fotografijama i video zapisom",
+      "videoText": "Prilazak objektu, pregled prostorija i svih instalacija beleže se na video i čuvaju u vašoj privatnoj arhivi.",
+      "videoCta": "Protokol 15 tačaka",
+      "vaultCategory": "Dodatne usluge",
+      "vaultTitle": "Polivanje, košenje, obrezivanje i čišćenje",
+      "vaultText": "Po dogovoru preuzimamo i dodatne poslove: polivanje biljaka, košenje trave, obrezivanje drveća, čišćenje i pripremu doma za vaš dolazak. Usluge se posebno naplaćuju.",
+      "vaultFooter": "Po dogovoru • Posebna cena",
+      "waterBadge": "0 vidljivih curenja",
+      "waterCategory": "Provera instalacija",
+      "waterTitle": "Vodomerni čvor, ventili i slavine",
+      "waterText": "Proveravamo vodomer, ventile i slavine. Uočene nepravilnosti dokumentujemo i obaveštavamo vas.",
+      "waterFooterLabel": "Očitavanje vodomera:",
+      "waterFooterValue": "Zabeleženo u izveštaju",
+      "electricBadge": "Stanje uređaja",
+      "electricCategory": "Elektro-instalacije",
+      "electricTitle": "Strujomer i osigurači",
+      "electricText": "Očitavamo stanje strujomera i proveravamo osigurače. Ako primetimo nepravilnost, javljamo vam.",
+      "electricFooterLabel": "Stanje strujomera:",
+      "electricFooterValue": "Fotografisano u izveštaju",
+      "emergencyCategory": "Redovni obilasci",
+      "emergencyTitle": "Obilasci po rasporedu koji vam odgovara",
+      "emergencyText": "Birate učestalost obilazaka — jednom, dva ili četiri puta mesečno. Svaki obilazak uključuje proveru stanja i izveštaj.",
+      "emergencyFooter": "Bez skrivenih troškova"
+    },
+    "report": {
+      "badge": "Primer izveštaja nakon obilaska",
+      "title": "Kako izgleda izveštaj koji dobijate nakon svakog obilaska?",
+      "subtitle": "Nema nagađanja. Nakon posete na WhatsApp i email stiže kompletan izveštaj: fotografije sa datumom i lokacijom, status instalacija i link ka video snimku.",
+      "feature1Title": "Datum i vreme",
+      "feature1Desc": "Datum i vreme svakog snimka zabeleženi su u metapodacima.",
+      "feature2Title": "Lokacija obilaska",
+      "feature2Desc": "Potvrda da je saradnik bio na adresi objekta.",
+      "feature3Title": "HD video zapis obilaska",
+      "feature3Desc": "Privatni arhivirani video prilaza, prozora i prostorija.",
+      "phoneTitle": "Domovik Izveštaj #048",
+      "phoneLocation": "Novi Sad, Sremska Kamenica",
+      "phoneStatus": "Završeno",
+      "photoCaption": "Pregled spoljnog dela i fasade",
+      "photoCounter": "1/14 fotografija",
+      "checklistTitle": "Status kontrolne liste (15 tačaka)",
+      "check1": "Glavni ventil vode i slavine",
+      "check1Value": "Bez vidljivih curenja",
+      "check2": "Strujomer i frižider",
+      "check2Value": "14.820 kWh • Zabeleženo",
+      "check3": "Prozori i brave",
+      "check3Value": "Zatvoreno i provereno",
+      "check4": "Poštansko sanduče",
+      "check4Value": "3 pisma (fotografisano)",
+      "videoCta": "Pogledajte HD video obilaska (03:45 min)"
+    },
+    "additionalEyebrow": "Dodatne usluge",
+    "targetEyebrow": "Kome je namenjeno",
+    "trustEyebrow": "Naš pristup"
+  }
+}

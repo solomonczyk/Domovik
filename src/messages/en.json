@@ -1,0 +1,642 @@
+{
+  "cookies": {
+    "title": "Privacy & Cookie Preferences",
+    "description": "We use cookies to ensure optimal browsing performance, analyze site traffic, and protect your privacy and preferences.",
+    "acceptAll": "Accept All",
+    "necessaryOnly": "Necessary Only",
+    "settings": "Customize",
+    "save": "Save Preferences",
+    "necessaryTitle": "Strictly Necessary",
+    "necessaryDesc": "Essential for core functions such as secure navigation, authentication, and language settings. Cannot be disabled.",
+    "analyticsTitle": "Analytical Cookies",
+    "analyticsDesc": "Help us understand visitor behavior to optimize site speed and improve customer portal features.",
+    "preferencesTitle": "Preference Cookies",
+    "preferencesDesc": "Remember your preferred region, currency, and language selections.",
+    "cookiePolicy": "Learn more in our Cookie Policy",
+    "manageCookies": "Cookie Settings"
+  },
+  "metadata": {
+    "title": "Domovik — Regular visits and home care in Serbia",
+    "description": "Regular tours, condition checks, photo and video reports and additional maintenance services for houses and apartments in Serbia."
+  },
+  "dashboard": {
+    "title": "Client Portal",
+    "welcome": "Welcome back",
+    "property": "My Property",
+    "plan": "Active Plan",
+    "nextVisit": "Next Scheduled Visit",
+    "securityStatus": "Property status",
+    "allSecure": "All right",
+    "lastReport": "Latest Report",
+    "visitHistory": "Visit History",
+    "documents": "Contracts & Invoices",
+    "requestService": "Request Extra Service",
+    "settings": "Profile Settings",
+    "logout": "Log Out",
+    "viewReport": "View Full Report",
+    "downloadPdf": "Download PDF",
+    "photos": "High-Res Photos",
+    "videoClip": "Video Recording",
+    "checklistStatus": "Checklist Status",
+    "meters": "Meter Telemetry",
+    "electricity": "Electricity",
+    "water": "Water",
+    "incidents": "Incidents",
+    "zeroIncidents": "0 recorded irregularities",
+    "demoClient": "Demo Client Account",
+    "quickDemoLogin": "Quick Login — Explore Demo Dashboard",
+    "demoNotice": "Demonstration client portal simulating verified inspections, GPS metadata, and video archives.",
+    "newRequestTitle": "Request Additional or On-Demand Service",
+    "serviceType": "Service Category",
+    "datePreferred": "Preferred Date",
+    "urgency": "Urgency",
+    "submitRequest": "Submit Request",
+    "requestSuccess": "Service request dispatched! Our coordinator will contact you promptly.",
+    "contractSigned": "Signed Legal Agreement",
+    "keysSafe": "Keys by arrangement",
+    "viewContract": "View Contract"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services & Pricing",
+    "visitChecklist": "Visit Checklist",
+    "contract": "Contract & Liability",
+    "about": "About Us",
+    "contact": "Contact",
+    "dashboard": "Client Portal",
+    "login": "Login",
+    "requestQuote": "Get a Quote",
+    "skener": "3D Scanner",
+    "protection": "Care",
+    "comparison": "Comparison",
+    "pricing": "Pricing",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "Regular care of your property in Serbia",
+    "title": "Your home regularly inspected while you are away",
+    "subtitle": "Regular tours, detailed video and photo reports and checking the condition of installations. A peaceful dream for owners living and working abroad.",
+    "ctaApply": "Request Service",
+    "ctaPricing": "View Pricing",
+    "stat1Value": "100%",
+    "stat1Label": "Video & Photo Proof",
+    "stat2Value": "Regularly",
+    "stat2Label": "Tours by appointment",
+    "stat3Value": "Legal",
+    "stat3Label": "Written Contract"
+  },
+  "howItWorks": {
+    "title": "How does it work?",
+    "subtitle": "A straightforward and fully transparent 4-step process.",
+    "step1Title": "1. Inquire & Estimate",
+    "step1Desc": "Send us your property location and basic details via form or message.",
+    "step2Title": "2. Agreement & Key Handover",
+    "step2Desc": "We define the schedule, sign a written contract, and secure keys in a safe.",
+    "step3Title": "3. Regular Inspections",
+    "step3Desc": "We visit the property, record a video, inspect the installations and condition of the facility.",
+    "step4Title": "4. Instant Report",
+    "step4Desc": "Receive a comprehensive report with timestamped photos directly via WhatsApp or portal."
+  },
+  "baseServices": {
+    "title": "What's included in every standard visit?",
+    "subtitle": "A meticulous inspection of essential property checkpoints on every visit.",
+    "inspection": "Visual inspection of interior and exterior for damages, moisture, and pests",
+    "windowsDoors": "Checking windows, balcony doors, locks and bars",
+    "utilities": "Reading electricity and water meters, checking faucets and pipe leakages",
+    "mailYard": "Mailbox emptying, perimeter check of gates, fences, and yard status",
+    "photoReport": "High-resolution photo report with verified timestamp and geolocation",
+    "problemAlert": "Immediate notification to the owner in case of any detected anomaly",
+    "callSpecialist": "Organization and coordination of craftsmen (plumber, electrician, glazier) upon approval"
+  },
+  "additionalServices": {
+    "title": "Optional Additional Services",
+    "subtitle": "Tailored to your specific schedule, preferences, and lifestyle.",
+    "onDemand": "Upon Request",
+    "cleaning": {
+      "title": "General & Pre-arrival Cleaning",
+      "desc": "Deep cleaning before your arrival or seasonal freshening of the property."
+    },
+    "yardCare": {
+      "title": "Lawn & Garden Maintenance",
+      "desc": "Lawn mowing, hedge trimming, seasonal leaf clearing, and snow removal."
+    },
+    "petCare": {
+      "title": "Pet Feeding & Oversight",
+      "desc": "Care and feeding for domestic pets remaining on property during brief leaves."
+    },
+    "plantWatering": {
+      "title": "Plant & Garden Watering",
+      "desc": "Scheduled watering for indoor potted plants, balconies, and garden beds."
+    },
+    "ventilation": {
+      "title": "Thorough Ventilation",
+      "desc": "Air exchange throughout the house to prevent stuffiness, mold, and humidity."
+    },
+    "prepareArrival": {
+      "title": "Welcome Home Preparation",
+      "desc": "Switching on heating or AC, water heaters, airing rooms, and basic grocery stocking."
+    },
+    "eyebrow": "Additional services"
+  },
+  "targetAudience": {
+    "title": "Who is this service designed for?",
+    "subtitle": "We cater to owners who are physically unable to routinely check their property.",
+    "diaspora": {
+      "title": "Serbian Diaspora (Germany, Austria, Switzerland, etc.)",
+      "desc": "You live and work abroad and want regular checks that your family home in Serbia is in good condition."
+    },
+    "foreignOwners": {
+      "title": "International Property Owners in Serbia",
+      "desc": "Foreign investors or holiday home owners who need a reliable local partner speaking their language."
+    },
+    "travelWorkers": {
+      "title": "Remote & Travel Professionals",
+      "desc": "Long-haul drivers, sailors, and offshore specialists who spend months away from home."
+    },
+    "rentalOwners": {
+      "title": "Short-term Vacation Rental Hosts",
+      "desc": "Inter-stay property checkups, damage inspection, and readiness confirmation."
+    },
+    "eyebrow": "Who is it intended for?"
+  },
+  "trust": {
+    "title": "Why can you count on us?",
+    "subtitle": "Trust is earned through accountability, formal contracts, and verified reports.",
+    "videoEvery": {
+      "title": "Video Recording on Every Visit",
+      "desc": "Approach to the property, internal walkthrough, and departure are recorded on video and archived."
+    },
+    "writtenContract": {
+      "title": "Legally Binding Written Agreement",
+      "desc": "Clearly defined obligations, agreement on keys and limits of responsibility."
+    },
+    "geoPhotos": {
+      "title": "GPS & Timestamped Photos",
+      "desc": "Every photo file carries immutable timestamp and GPS coordinate metadata."
+    },
+    "transparentPricing": {
+      "title": "Transparent & Fixed Pricing",
+      "desc": "No hidden fees. Any extra task or contractor expense is pre-quoted and approved by you."
+    },
+    "eyebrow": "Our approach"
+  },
+  "pricing": {
+    "title": "Care Packages & Pricing",
+    "subtitle": "Choose the inspection frequency that best fits your property needs.",
+    "popular": "Most Popular",
+    "choosePlan": "Choose Plan",
+    "perMonth": "/ month",
+    "basic": {
+      "name": "Basic",
+      "price": "€49",
+      "desc": "1 visit per month — ideal for apartments & newer buildings",
+      "features": [
+        "1 thorough inspection visit per month",
+        "Visual inspection of utilities and locks",
+        "Photo report (10-15 photos)",
+        "Mailbox clearing",
+        "Report via WhatsApp or email"
+      ]
+    },
+    "plus": {
+      "name": "Standard Plus",
+      "price": "€89",
+      "desc": "2 visits per month (every 2 weeks) — optimal care",
+      "features": [
+        "2 thorough inspection visits per month",
+        "Full video recording of each visit",
+        "Detailed check of water, power, and gas",
+        "Organization and coordination of masters without commission",
+        "Priority post-storm damage check",
+        "Client portal access"
+      ]
+    },
+    "premium": {
+      "name": "Premium",
+      "price": "€149",
+      "desc": "4 visits per month (weekly) — ultimate peace of mind",
+      "features": [
+        "4 thorough inspection visits per month (weekly)",
+        "Comprehensive video & geotagged photos",
+        "Indoor plant watering included",
+        "Contractor dispatch & supervision without markup",
+        "Arrival preparation (twice a year)",
+        "Direct phone contact with the coordinator"
+      ]
+    },
+    "rentalNote": "For short-term rentals and custom inspection requirements, custom plans are available.",
+    "customNote": "Final pricing is confirmed based on location distance and specific requested scope.",
+    "monthly": "Monthly billing",
+    "semiAnnual": "Semi-annual / Annual",
+    "discount": "15% off",
+    "savings": "Save 15%",
+    "badge": "Clear & fixed"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to the most common questions from property owners.",
+    "q1": "What happens if you spot a breakdown, water leak or damage?",
+    "a1": "We will contact you immediately and send photo/video proof. For observed faults, we suggest the following steps and, with your consent, we coordinate a repairman. Domovik does not provide security services or guarantee burglary prevention.",
+    "q2": "How are my property keys stored?",
+    "a2": "Keys are signed for upon handover and secured inside a coded, fire-rated safe. Every key check-out is logged with exact time and signature.",
+    "q3": "How can I be certain that you actually visited?",
+    "a3": "Every visit includes timestamped photo documentation and raw video footage embedding exact GPS location and time metadata.",
+    "q4": "Can I book a single one-off visit?",
+    "a4": "Yes! We offer on-demand one-off inspections — for instance, following severe storms, hail, or when you need emergency parcel reception.",
+    "q5": "Can you provide additional services?",
+    "a5": "Yes — watering the plants, mowing the grass, trimming the trees, cleaning and preparing the home for arrival. Additional services are agreed upon and charged separately.",
+    "q6": "What is your responsibility?",
+    "a6": "We provide regular tours, condition checks and reports in accordance with the contract. We are not a security agency and do not guarantee the security of the facility."
+  },
+  "cta": {
+    "title": "Entrust the care of your home",
+    "subtitle": "Contact us for a free estimate and custom inspection proposal.",
+    "button": "Send Inquiry"
+  },
+  "contactForm": {
+    "title": "Request a Free Evaluation",
+    "subtitle": "Fill out the quick form below and we will get back to you within a few hours.",
+    "name": "Full Name",
+    "namePlaceholder": "e.g. John Smith",
+    "phone": "Phone Number (Viber / WhatsApp)",
+    "phonePlaceholder": "+381 60 123 4567 or +49 170...",
+    "email": "Email Address",
+    "emailPlaceholder": "john@example.com",
+    "city": "City / Municipality of Property",
+    "cityPlaceholder": "e.g. Novi Sad, Subotica, Belgrade...",
+    "propertyType": "Property Type",
+    "selectType": "Select property type",
+    "house": "Detached House with Yard",
+    "apartment": "Apartment in Residential Building",
+    "rental": "Short-Term Vacation Rental Unit",
+    "comment": "Notes or Special Requirements (Optional)",
+    "commentPlaceholder": "e.g. garden watering required, property is isolated, etc.",
+    "consent": "I agree to the processing of submitted personal data for the purpose of receiving an offer.",
+    "submit": "Submit Request",
+    "sending": "Sending...",
+    "successTitle": "Thank you for your inquiry!",
+    "successMessage": "Your request has been received. We will get in touch with you shortly.",
+    "errorTitle": "Submission Error",
+    "errorMessage": "Something went wrong. Please try again or contact us directly via phone or WhatsApp.",
+    "sendAnother": "Send another inquiry"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We are available for all inquiries every working day.",
+    "phone": "Phone",
+    "phoneVal": "+381 60 000 0000",
+    "email": "Email",
+    "emailVal": "info@domovik.rs",
+    "workingHours": "Business Hours",
+    "workingHoursVal": "Monday - Saturday: 08:00 - 20:00",
+    "serviceArea": "Service Coverage",
+    "serviceAreaVal": "Vojvodina & Belgrade Region (Novi Sad, Subotica, Zrenjanin, Sombor, Pančevo, Belgrade)",
+    "whatsapp": "Message us on WhatsApp",
+    "viber": "Message us on Viber",
+    "emergencyNote": "Domovik is not a security agency and does not provide physical security services. We regularly visit the facility, check its condition and inform you about everything with a report."
+  },
+  "servicesPage": {
+    "title": "Services & Care Plans",
+    "subtitle": "Regular inspections, condition checks, reports and additional maintenance services.",
+    "introTitle": "Why is regular checkup necessary?",
+    "introText": "An empty house can quickly accumulate moisture, dust and unnoticed problems. With regular visits, we detect leaks, damages and changes in the building. Domovik is your local support while you are not present.",
+    "includedTitle": "Standard Inspection Protocol",
+    "extraTitle": "On-demand Additional Services",
+    "pricingTitle": "Monthly Package Comparison"
+  },
+  "visitChecklist": {
+    "title": "15-Step Visit Protocol & Checklist",
+    "subtitle": "Every visit follows an exacting, standardized 15-step inspection checklist.",
+    "notice": "All videos and photos are archived on a private server and are available to the owner at any time.",
+    "steps": [
+      {
+        "title": "1. Arrival & GPS check-in",
+        "desc": "Digital logging of the exact arrival time and location via app."
+      },
+      {
+        "title": "2. Start of video recording",
+        "desc": "Activation of high-definition camera upon approach to the gate and house."
+      },
+      {
+        "title": "3. Perimeter inspection",
+        "desc": "Inspection of exterior fences, gates, drainpipes, and walkways."
+      },
+      {
+        "title": "4. Front doors & locks verification",
+        "desc": "Physical check of the correctness of locks and door frames."
+      },
+      {
+        "title": "5. Windows & shutters check",
+        "desc": "Overview of windows, closing mechanisms and blinds."
+      },
+      {
+        "title": "6. Plumbing & water check",
+        "desc": "Reading water meter, testing taps, checking for leaks, damp spots or water odors."
+      },
+      {
+        "title": "7. Electrical system check",
+        "desc": "Inspecting breaker panel, meter reading, fridge/freezer operation check."
+      },
+      {
+        "title": "8. Mailbox collection",
+        "desc": "Emptying mailbox, photographing critical mail/bills, alerting the owner."
+      },
+      {
+        "title": "9. Yard & grounds inspection",
+        "desc": "Checking for fallen branches, lawn conditions, proper rain runoff."
+      },
+      {
+        "title": "10. Interior room walkthrough",
+        "desc": "Inspecting ceilings (water leaks), walls, floors, and general ventilation."
+      },
+      {
+        "title": "Checking sensors and devices",
+        "desc": "Checking smoke detectors and batteries on installed devices."
+      },
+      {
+        "title": "12. Key zone photo documentation",
+        "desc": "Capturing timestamped photos of all predefined inspection zones."
+      },
+      {
+        "title": "13. End of video recording",
+        "desc": "Closing the facility and gate and final condition check."
+      },
+      {
+        "title": "14. Digital report delivery",
+        "desc": "Full inspection report with photos sent directly to WhatsApp or portal."
+      },
+      {
+        "title": "15. Anomaly response",
+        "desc": "Immediate call to the owner and pre-approved action if anything is amiss."
+      }
+    ]
+  },
+  "contractPage": {
+    "title": "Contract & Legal Responsibility",
+    "subtitle": "We respect your property and work strictly on the foundation of a formal written contract.",
+    "intro": "Entrusting keys to your home requires total trust. That is why our working relationship is legally formalized in every aspect.",
+    "pillars": [
+      {
+        "title": "What We Do",
+        "desc": "Regular tours, condition checks, ventilation, video/photo reporting and coordination of additional services."
+      },
+      {
+        "title": "What We DO NOT Do",
+        "desc": "We are not a security agency and we do not provide physical security services. We do not guarantee the security of the facility; we provide regular checks, documentation and timely notification of owners."
+      },
+      {
+        "title": "Dealing with keys",
+        "desc": "If necessary, the keys are picked up by agreement and recorded. Details are regulated by contract."
+      },
+      {
+        "title": "Data & Privacy Protection",
+        "desc": "Inspection footage is stored on encrypted storage and is never made public or transferred to third parties."
+      }
+    ],
+    "emergencyTitle": "Postupanje u vanrednim situacijama",
+    "emergencySteps": [
+      "1. Immediate photo/video documentation without disturbing evidence.",
+      "2. Urgent phone call to the property owner.",
+      "Ako vlasnik nije dostupan: postupanje po unapred dogovorenom planu i obaveštenje nadležnih službi ako je potrebno.",
+      "4. In case of water rupture: closing main valve and dispatching emergency plumbing team.",
+      "Pisani izveštaj o događaju i preduzetim koracima."
+    ],
+    "downloadTitle": "Download Contract Sample",
+    "downloadDesc": "Review our standard property caretaking contract sample with all clauses before engaging.",
+    "downloadBtn": "Download Sample Contract (PDF)"
+  },
+  "about": {
+    "title": "About Domovik Caretaking",
+    "subtitle": "Your dedicated, reliable, and local property caretaker in Serbia.",
+    "storyTitle": "Why Domovik was founded",
+    "storyText": "It all started from direct personal need: relatives and friends living in Vienna, Munich, and Zurich were constantly worried about their family homes back in Serbia. Did a recent hailstorm break roof tiles? Did the freezer shut down? Has unpaid mail piled up? Asking neighbors often felt burdensome and lacked accountability. Domovik was created to provide institutional reliability and peace of mind.",
+    "valuesTitle": "Our 4 Core Values",
+    "v1Title": "Uncompromising Trust",
+    "v1Desc": "We treat your property with the utmost care, confidentiality, and discretion.",
+    "v2Title": "Punctual Reliability",
+    "v2Desc": "Inspection schedules are upheld consistently, regardless of weather conditions.",
+    "v3Title": "Complete Transparency",
+    "v3Desc": "Every visit and issue is documented with video and raw geotagged photos.",
+    "v4Title": "Swift Communication",
+    "v4Desc": "We are easily reachable via modern messaging channels like WhatsApp and Viber."
+  },
+  "footer": {
+    "description": "Regular visits, condition checks and maintenance of houses and apartments in Serbia.",
+    "navigation": "Navigation",
+    "servicesTitle": "Services",
+    "legalTitle": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved.",
+    "directLine": "WhatsApp / Viber direct line"
+  },
+  "common": {
+    "readMore": "Learn more",
+    "back": "Back",
+    "send": "Send",
+    "applyNow": "Apply Now",
+    "learnMore": "Details",
+    "phone": "Call Us",
+    "callUs": "Call"
+  },
+  "landing": {
+    "hero": {
+      "slides": [
+        {
+          "badge": "Regular care of your property in Serbia",
+          "title": "Your home regularly inspected while you are away",
+          "description": "Regular tours, detailed video and photo reports and checking the condition of installations. A peaceful dream for owners living and working abroad.",
+          "imageAlt": "Family house in Novi Sad — regular condition check",
+          "topBadgeLabel": "Regular tour",
+          "topBadgeValue": "Object condition recorded",
+          "bottomBadgeLabel": "Photo and video report",
+          "bottomBadgeValue": "Every detail documented",
+          "location": "Vojvodina & Belgrade",
+          "primaryLabel": "Schedule a tour",
+          "secondaryLabel": "Open the Demo Portal",
+          "checklist": [
+            "Regular tours",
+            "Photo and video report",
+            "Additional services by agreement"
+          ]
+        },
+        {
+          "badge": "Digital report after each tour",
+          "title": "Every detail of your home, on your phone",
+          "description": "A video, photos with date and location and a complete checklist arrive via WhatsApp and email after each tour.",
+          "imageAlt": "A house in Vojvodina — an example of a tour report",
+          "topBadgeLabel": "Report #048",
+          "topBadgeValue": "Completed • Novi Sad",
+          "bottomBadgeLabel": "Date, time and location",
+          "bottomBadgeValue": "45.2238° N, 19.8451° E",
+          "location": "Novi Sad, Sremska Kamenica",
+          "primaryLabel": "See a sample report",
+          "secondaryLabel": "What does the tour look like?",
+          "checklist": [
+            "Photo and video",
+            "A 15-point checklist",
+            "Report on WhatsApp and email"
+          ]
+        },
+        {
+          "badge": "Additional services by agreement",
+          "title": "More than a tour — caring for your home",
+          "description": "Watering the flowers, mowing the grass, trimming the trees, cleaning and preparing the home for your arrival. Everything by agreement and at a special price.",
+          "imageAlt": "Yard and grass maintenance",
+          "topBadgeLabel": "Additional services",
+          "topBadgeValue": "By arrangement",
+          "bottomBadgeLabel": "For your home",
+          "bottomBadgeValue": "Ready for arrival",
+          "location": "Vojvodina & Belgrade",
+          "primaryLabel": "Schedule a service",
+          "secondaryLabel": "See services",
+          "checklist": [
+            "Watering plants",
+            "Mowing and trimming",
+            "Cleaning and preparing the home"
+          ]
+        }
+      ],
+      "previous": "Previous slide",
+      "next": "Next slide",
+      "slideLabel": "Slide {index}: {title}",
+      "scroll": "Scroll",
+      "live": "Live"
+    },
+    "threeD": {
+      "badge": "Interactive 3D overview of the object",
+      "title": "Complete insight into every zone of your house",
+      "subtitle": "Click on the points on the house and see which parts of the property our team checks during a regular tour.",
+      "hud": "DISPLAY: Regular review",
+      "security": "Outside",
+      "utilities": "Installations",
+      "greenZone": "5 out of 5 review points noted",
+      "selected": "Selected: {name}",
+      "quickSelect": "Quick view point selection:",
+      "hotspots": [
+        {
+          "name": "Front door",
+          "category": "Outside",
+          "value": "Closed • Checked",
+          "detail": "Visual inspection of the front door and lock at each visit."
+        },
+        {
+          "name": "Plumbing unit and valves",
+          "category": "Installations",
+          "value": "No visible leaks",
+          "detail": "Checking water meters, valves and faucets. Observed irregularities are documented and reported to you."
+        },
+        {
+          "name": "Electric distribution cabinet",
+          "category": "Installations",
+          "value": "Status recorded",
+          "detail": "Consumption reading and visual fuse check."
+        },
+        {
+          "name": "Windows and blinds",
+          "category": "Outside",
+          "value": "Closed • Checked",
+          "detail": "Checking windows, balcony doors and blinds."
+        },
+        {
+          "name": "Facade, gutters and driveway",
+          "category": "Exterior",
+          "value": "Viewed",
+          "detail": "Visual inspection of the facade, gutters and driveway."
+        }
+      ],
+      "imageAlt": "A house in Vojvodina — an example of an object"
+    },
+    "services": {
+      "badge": "Standard protocol",
+      "titles": [
+        "Visual inspection",
+        "Locks & windows",
+        "Water & electricity",
+        "Mail & yard",
+        "Photo report",
+        "Contractor coordination"
+      ],
+      "perVisit": "Included in every visit",
+      "bannerTitle": "Want a detailed view of every step?",
+      "bannerText": "See our complete 15-point inspection protocol, from arrival to report delivery.",
+      "previousServices": "Previous services",
+      "nextServices": "Next services"
+    },
+    "comparison": {
+      "badge": "Interactive comparison",
+      "title": "The difference you and your neighbors notice",
+      "subtitle": "Drag the slider and compare how a house without regular care looks like and a house that is regularly inspected and maintained.",
+      "afterBadge": "With regular care",
+      "beforeBadge": "No regular care",
+      "afterTitle": "Neat and clear",
+      "afterText": "Grass cut, box emptied, valves checked, condition noted.",
+      "beforeTitle": "Ignored and unnoticed",
+      "beforeText": "Overgrown weeds, overflowing inbox, unnoticed moisture.",
+      "mobileAfter": "With Domovik",
+      "mobileBefore": "No worries",
+      "helper": "Illustration: Vojvodina house — drag the slider to show the difference",
+      "aria": "Home condition comparison slider"
+    },
+    "bento": {
+      "badge": "A modern standard of care",
+      "title": "Everything that takes care of your home",
+      "subtitle": "Regular tours, digital reports and additional services by appointment — all in one place.",
+      "rec": "REC • 1080p HD",
+      "gps": "GPS + weather",
+      "videoLabel": "Video and photo documentation",
+      "videoTitle": "Each tour is documented with photos and video",
+      "videoText": "The approach to the building, the inspection of the premises and all installations are recorded on video and stored in your private archive.",
+      "videoCta": "Protocol of 15 points",
+      "vaultCategory": "Additional services",
+      "vaultTitle": "Watering, mowing, trimming and cleaning",
+      "vaultText": "By agreement, we also undertake additional work: watering plants, mowing the grass, trimming trees, cleaning and preparing the home for your arrival. Services are charged separately.",
+      "vaultFooter": "By agreement • Special price",
+      "waterBadge": "0 visible leaks",
+      "waterCategory": "Checking installations",
+      "waterTitle": "Water meter node, valves and taps",
+      "waterText": "We check the water meter, valves and faucets. We document observed irregularities and inform you.",
+      "waterFooterLabel": "Water meter reading:",
+      "waterFooterValue": "Recorded in the report",
+      "electricBadge": "Device status",
+      "electricCategory": "Electrical installations",
+      "electricTitle": "Current meter and fuses",
+      "electricText": "We read the state of the current meter and check the fuses. If we notice an irregularity, we notify you.",
+      "electricFooterLabel": "Current meter status:",
+      "electricFooterValue": "Photographed in the report",
+      "emergencyCategory": "Regular tours",
+      "emergencyTitle": "Tours on a schedule that suits you",
+      "emergencyText": "You choose the frequency of visits — once, twice or four times a month. Each tour includes a condition check and report.",
+      "emergencyFooter": "No hidden costs"
+    },
+    "report": {
+      "badge": "Example of a report after the tour",
+      "title": "What does the report you get after each tour look like?",
+      "subtitle": "No guesswork. After the visit, a full report will be sent to WhatsApp and email: photos with date and location, installation status and a link to the video.",
+      "feature1Title": "Date and time",
+      "feature1Desc": "The date and time of each recording are recorded in the metadata.",
+      "feature2Title": "Tour location",
+      "feature2Desc": "Confirmation that the associate was at the facility's address.",
+      "feature3Title": "HD video of the tour",
+      "feature3Desc": "Private archived video of driveways, windows and rooms.",
+      "phoneTitle": "Domovik Report #048",
+      "phoneLocation": "Novi Sad, Sremska Kamenica",
+      "phoneStatus": "Finished",
+      "photoCaption": "Overview of the exterior and facade",
+      "photoCounter": "1/14 photo",
+      "checklistTitle": "Checklist status (15 points)",
+      "check1": "Main water valve and faucet",
+      "check1Value": "No visible leaks",
+      "check2": "Electricity meter and refrigerator",
+      "check2Value": "14,820 kWh • Recorded",
+      "check3": "Windows and locks",
+      "check3Value": "Closed and checked",
+      "check4": "Mailbox",
+      "check4Value": "3 letters (photographed)",
+      "videoCta": "Watch the HD video of the tour (03:45 min)"
+    },
+    "additionalEyebrow": "Additional services",
+    "targetEyebrow": "Who is it intended for?",
+    "trustEyebrow": "Our approach"
+  }
+}

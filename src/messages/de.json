@@ -1,0 +1,642 @@
+{
+  "cookies": {
+    "title": "Privatsphäre & Cookie-Einstellungen",
+    "description": "Wir nutzen Cookies, um Ihnen die bestmögliche Nutzung unserer Website zu ermöglichen, den Datenverkehr zu analysieren und Ihre Sprachauswahl zu speichern.",
+    "acceptAll": "Alle akzeptieren",
+    "necessaryOnly": "Nur notwendige",
+    "settings": "Anpassen",
+    "save": "Auswahl speichern",
+    "necessaryTitle": "Technisch notwendige Cookies",
+    "necessaryDesc": "Unerlässlich für grundlegende Funktionen wie Seitennavigation, Sicherheit und Spracheinstellungen. Können nicht deaktiviert werden.",
+    "analyticsTitle": "Analyse-Cookies",
+    "analyticsDesc": "Ermöglichen uns, die Nutzung der Website anonym zu analysieren, um Ladezeiten und Servicefunktionen zu verbessern.",
+    "preferencesTitle": "Präferenz-Cookies",
+    "preferencesDesc": "Speichern Ihre individuellen Einstellungen wie bevorzugte Sprache und Ansicht.",
+    "cookiePolicy": "Weitere Details in unserer Datenschutzerklärung",
+    "manageCookies": "Cookie-Einstellungen"
+  },
+  "metadata": {
+    "title": "Domovik – Regelmäßige Besuche und häusliche Pflege in Serbien",
+    "description": "Regelmäßige Besichtigungen, Zustandsprüfungen, Foto- und Videoberichte sowie zusätzliche Wartungsdienste für Häuser und Wohnungen in Serbien."
+  },
+  "dashboard": {
+    "title": "Kundenportal",
+    "welcome": "Willkommen zurück",
+    "property": "Meine Immobilie",
+    "plan": "Aktives Paket",
+    "nextVisit": "Nächster Kontrolltermin",
+    "securityStatus": "Objektstatus",
+    "allSecure": "In Ordnung",
+    "lastReport": "Letzter Prüfbericht",
+    "visitHistory": "Besichtigungshistorie",
+    "documents": "Verträge & Rechnungen",
+    "requestService": "Zusatzleistung anfordern",
+    "settings": "Profileinstellungen",
+    "logout": "Abmelden",
+    "viewReport": "Bericht ansehen",
+    "downloadPdf": "PDF herunterladen",
+    "photos": "Fotos",
+    "videoClip": "Videoaufzeichnung",
+    "checklistStatus": "Prüfprotokoll",
+    "meters": "Zählerstände",
+    "electricity": "Strom",
+    "water": "Wasser",
+    "incidents": "Vorfälle",
+    "zeroIncidents": "0 erfasste Unregelmäßigkeiten",
+    "demoClient": "Demo-Konto",
+    "quickDemoLogin": "Schnellanmeldung — Demo-Portal testen",
+    "demoNotice": "Live-Demo des Kundenbereichs mit lückenlosen Nachweisen, GPS-Stempel und Videoarchiv.",
+    "newRequestTitle": "Zusatzleistung oder Sonderprüfung beauftragen",
+    "serviceType": "Art der Dienstleistung",
+    "datePreferred": "Wunschtermin",
+    "urgency": "Dringlichkeit",
+    "submitRequest": "Auftrag absenden",
+    "requestSuccess": "Auftrag erfolgreich eingegangen! Unser Koordinator meldet sich in Kürze.",
+    "contractSigned": "Gültiger schriftlicher Vertrag",
+    "keysSafe": "Schlüsselübergabe nach Vereinbarung",
+    "viewContract": "Vertrag ansehen"
+  },
+  "nav": {
+    "home": "Startseite",
+    "services": "Leistungen & Preise",
+    "visitChecklist": "Besichtigungsprotokoll",
+    "contract": "Vertrag & Haftung",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "dashboard": "Kundenportal",
+    "login": "Anmelden",
+    "requestQuote": "Angebot anfordern",
+    "skener": "3D-Scanner",
+    "protection": "Pflege",
+    "comparison": "Vergleich",
+    "pricing": "Preise",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "Regelmäßige Betreuung Ihrer Immobilie in Serbien",
+    "title": "Während Ihrer Abwesenheit wird Ihr Zuhause regelmäßig überprüft",
+    "subtitle": "Regelmäßige Führungen, ausführliche Video- und Fotoreportagen und Überprüfung des Anlagenzustandes. Ein friedlicher Traum für Eigentümer, die im Ausland leben und arbeiten.",
+    "ctaApply": "Anfrage senden",
+    "ctaPricing": "Pakete ansehen",
+    "stat1Value": "100%",
+    "stat1Label": "Video- & Fotodokumentation",
+    "stat2Value": "Regelmäßig",
+    "stat2Label": "Führungen nach Vereinbarung",
+    "stat3Value": "Rechtlich",
+    "stat3Label": "Schriftlicher Vertrag"
+  },
+  "howItWorks": {
+    "title": "Wie funktioniert die Zusammenarbeit?",
+    "subtitle": "Ein transparenter und unkomplizierter Prozess in 4 Schritten.",
+    "step1Title": "1. Anfrage & Ersteinschätzung",
+    "step1Desc": "Teilen Sie uns Objektdetails und Standort über das Formular oder WhatsApp mit.",
+    "step2Title": "2. Vereinbarung & Schlüsselübergabe",
+    "step2Desc": "Wir legen Besuchsintervalle fest, schließen den Vertrag ab und verwahren die Schlüssel im Safe.",
+    "step3Title": "3. Regelmäßige Kontrollen",
+    "step3Desc": "Wir besichtigen die Immobilie, nehmen ein Video auf, prüfen die Installationen und den Zustand der Anlage.",
+    "step4Title": "4. Bericht auf Ihr Smartphone",
+    "step4Desc": "Am selben Tag erhalten Sie den vollständigen Prüfbericht mit Fotos per WhatsApp oder Portal."
+  },
+  "baseServices": {
+    "title": "Was beinhaltet jede Standard-Besichtigung?",
+    "subtitle": "Gründliche Prüfung aller kritischen Punkte Ihrer Immobilie.",
+    "inspection": "Sichtprüfung von Innenräumen und Fassade auf Schäden, Feuchtigkeit und Ungeziefer",
+    "windowsDoors": "Kontrolle von Fenstern, Balkontüren, Schlössern und Riegeln",
+    "utilities": "Ablesung von Strom- und Wasserzählern, Prüfung von Wasserhähnen auf Leckagen",
+    "mailYard": "Leerung des Briefkastens, Kontrolle von Zäunen, Toren und Gartenbereich",
+    "photoReport": "Detaillierter Fotobericht mit Zeitstempel und genauen GPS-Daten",
+    "problemAlert": "Sofortige telefonische Benachrichtigung bei Unregelmäßigkeiten oder Schäden",
+    "callSpecialist": "Organisation und Koordination von Handwerkern (Klempner, Elektriker, Glaser) nach Genehmigung"
+  },
+  "additionalServices": {
+    "title": "Zusätzliche Dienstleistungen nach Wunsch",
+    "subtitle": "Individuell anpassbar an Ihre Anforderungen und Reisepläne.",
+    "onDemand": "Auf Anfrage",
+    "cleaning": {
+      "title": "Grundreinigung & Ankunftsreinigung",
+      "desc": "Gründliche Reinigung vor Ihrer Ankunft oder nach längerer Abwesenheit."
+    },
+    "yardCare": {
+      "title": "Garten- und Rasenpflege",
+      "desc": "Rasenmähen, Heckenschnitt, Laubentfernung und Winterdienst."
+    },
+    "petCare": {
+      "title": "Tierbetreuung",
+      "desc": "Fütterung und Betreuung von Tieren auf dem Grundstück bei kurzen Abwesenheiten."
+    },
+    "plantWatering": {
+      "title": "Pflanzen gießen",
+      "desc": "Regelmäßiges Gießen von Zimmerpflanzen, Balkonkästen und Gartenbeeten."
+    },
+    "ventilation": {
+      "title": "Gründliches Durchlüften",
+      "desc": "Stoßlüften zur Vermeidung von Feuchtigkeit, Schimmelbildung und muffigen Gerüchen."
+    },
+    "prepareArrival": {
+      "title": "Willkommens-Vorbereitung",
+      "desc": "Heizung oder Klimaanlage einschalten, Warmwasser aktivieren und Ersteinkauf erledigen."
+    },
+    "eyebrow": "Zusätzliche Dienstleistungen"
+  },
+  "targetAudience": {
+    "title": "Für wen ist dieser Service gedacht?",
+    "subtitle": "Speziell für Eigentümer, die nicht regelmäßig vor Ort sein können.",
+    "diaspora": {
+      "title": "Diaspora (Deutschland, Österreich, Schweiz)",
+      "desc": "Sie leben und arbeiten im Ausland und möchten regelmäßig überprüfen, ob Ihr Familienheim in Serbien in gutem Zustand ist."
+    },
+    "foreignOwners": {
+      "title": "Internationale Eigentümer in Serbien",
+      "desc": "Besitzer von Ferien- oder Anlageimmobilien, die einen deutschsprachigen, verlässlichen Ansprechpartner suchen."
+    },
+    "travelWorkers": {
+      "title": "Berufspendler, Fernfahrer und Seeleute",
+      "desc": "Fachkräfte, die berufsbedingt monatelang unterwegs sind."
+    },
+    "rentalOwners": {
+      "title": "Vermieter von Ferienwohnungen",
+      "desc": "Kontrolle zwischen Gästewechseln, Schadensfeststellung und Übergabebereitschaft."
+    },
+    "eyebrow": "Für wen ist es gedacht?"
+  },
+  "trust": {
+    "title": "Warum Sie uns vertrauen können",
+    "subtitle": "Absolute Transparenz, vertragliche Verlässlichkeit und lückenlose Nachweise.",
+    "videoEvery": {
+      "title": "Videoaufzeichnung jedes Besuchs",
+      "desc": "Ankunft, Begehung der Räume und Verlassen des Objekts werden auf Video festgehalten und archiviert."
+    },
+    "writtenContract": {
+      "title": "Rechtsgültiger schriftlicher Vertrag",
+      "desc": "Klar definierte Pflichten, Vereinbarung der Eckpunkte und Grenzen der Verantwortung."
+    },
+    "geoPhotos": {
+      "title": "Fotos mit GPS- und Zeitstempel",
+      "desc": "Jede Aufnahme belegt unveränderlich das genaue Datum, die Uhrzeit und die Geodaten."
+    },
+    "transparentPricing": {
+      "title": "Transparente Festpreise",
+      "desc": "Keine versteckten Kosten. Zusatzarbeiten werden immer vorab mit Ihnen abgestimmt."
+    },
+    "eyebrow": "Unser Ansatz"
+  },
+  "pricing": {
+    "title": "Pakete & Preise",
+    "subtitle": "Wählen Sie das Besuchsintervall, das am besten zu Ihrer Immobilie passt.",
+    "popular": "Beliebteste Wahl",
+    "choosePlan": "Paket wählen",
+    "perMonth": "/ Monat",
+    "basic": {
+      "name": "Basis",
+      "price": "€49",
+      "desc": "1 Besichtigung pro Monat — ideal für Wohnungen und Neubauten",
+      "features": [
+        "1 gründliche Besichtigung im Monat",
+        "Sichtprüfung von Installationen und Fenstern",
+        "Fotobericht (10-15 Fotos)",
+        "Leerung des Briefkastens",
+        "Bericht per WhatsApp oder E-Mail"
+      ]
+    },
+    "plus": {
+      "name": "Standard Plus",
+      "price": "€89",
+      "desc": "2 Besuche pro Monat (alle 2 Wochen) – optimale Betreuung",
+      "features": [
+        "2 Besichtigungen im Monat",
+        "Komplette Videoaufzeichnung jedes Besuchs",
+        "Genaue Überprüfung von Wasser, Strom und Gas",
+        "Organisation und Koordination von Mastern ohne Provision",
+        "Vorrangige Kontrolle nach Unwettern",
+        "Zugang zum Kundenportal"
+      ]
+    },
+    "premium": {
+      "name": "Premium",
+      "price": "€149",
+      "desc": "4 Besichtigungen pro Monat (wöchentlich) — maximale Betreuung",
+      "features": [
+        "4 Besichtigungen im Monat (wöchentlich)",
+        "Umfangreicher Video- und GPS-Fotobericht",
+        "Gießen von Zimmerpflanzen inklusive",
+        "Handwerkerkoordination ohne Aufschlag",
+        "Ankunftsvorbereitung (2x jährlich)",
+        "Direkter Telefonkontakt zum Koordinator"
+      ]
+    },
+    "rentalNote": "Für Kurzzeitvermietungen erstellen wir gerne ein maßgeschneidertes Angebot.",
+    "customNote": "Der Endpreis richtet sich nach Objektlage und gewünschtem Leistungsumfang.",
+    "monthly": "Monatliche Zahlung",
+    "semiAnnual": "Halbjährlich / Jährlich",
+    "discount": "15 % Rabatt",
+    "savings": "15 % sparen",
+    "badge": "Klar & fest"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen (FAQ)",
+    "subtitle": "Die wichtigsten Antworten auf Fragen von Hauseigentümern.",
+    "q1": "Was passiert, wenn Sie eine Panne, ein Wasserleck oder einen Schaden feststellen?",
+    "a1": "Wir werden uns umgehend mit Ihnen in Verbindung setzen und Ihnen einen Foto-/Videobeweis zusenden. Bei festgestellten Mängeln schlagen wir die folgenden Schritte vor und koordinieren mit Ihrem Einverständnis einen Reparaturbetrieb. Domovik erbringt keine Sicherheitsdienste und garantiert keine Einbruchsprävention.",
+    "q2": "Wie werden meine Hausschlüssel aufbewahrt?",
+    "a2": "Die Übergabe erfolgt per Protokoll. Die Schlüssel lagern in einem feuerfesten Zahlensafe mit dokumentiertem Zugriff.",
+    "q3": "Wie weiß ich sicher, dass Sie tatsächlich vor Ort waren?",
+    "a3": "Jede Besichtigung enthält Fotos und Videos mit unveränderlichem GPS- und Zeitstempel.",
+    "q4": "Kann man auch nur einen einmaligen Kontrollbesuch buchen?",
+    "a4": "Ja, wir bieten auch einmalige Einsätze an — z. B. direkt nach einem schweren Hagelsturm oder zur Paketannahme.",
+    "q5": "Können Sie zusätzliche Dienstleistungen anbieten?",
+    "a5": "Ja – die Pflanzen gießen, den Rasen mähen, die Bäume beschneiden, das Haus reinigen und für die Ankunft vorbereiten. Zusätzliche Leistungen werden gesondert vereinbart und verrechnet.",
+    "q6": "Was ist Ihre Verantwortung?",
+    "a6": "Wir bieten regelmäßige Besichtigungen, Zustandsprüfungen und vertragsgemäße Berichte an. Wir sind kein Sicherheitsdienst und übernehmen keine Gewähr für die Sicherheit der Anlage."
+  },
+  "cta": {
+    "title": "Vertrauen Sie die Pflege Ihres Zuhauses an",
+    "subtitle": "Kontaktieren Sie uns für ein unverbindliches und maßgeschneidertes Angebot.",
+    "button": "Anfrage senden"
+  },
+  "contactForm": {
+    "title": "Kostenloses Angebot anfordern",
+    "subtitle": "Füllen Sie das kurze Formular aus – wir antworten innerhalb weniger Stunden.",
+    "name": "Vor- und Nachname",
+    "namePlaceholder": "z.B. Markus Weber",
+    "phone": "Telefonnummer (WhatsApp / Mobil)",
+    "phonePlaceholder": "+49 170 1234567 oder +381 ...",
+    "email": "E-Mail-Adresse",
+    "emailPlaceholder": "markus@beispiel.de",
+    "city": "Stadt / Gemeinde des Objekts",
+    "cityPlaceholder": "z.B. Novi Sad, Subotica, Belgrad...",
+    "propertyType": "Immobilienart",
+    "selectType": "Bitte wählen",
+    "house": "Einfamilienhaus mit Grundstück",
+    "apartment": "Eigentumswohnung",
+    "rental": "Ferienunterkunft / Kurzzeitvermietung",
+    "comment": "Anmerkungen oder besondere Wünsche (optional)",
+    "commentPlaceholder": "z.B. Gartenbewässerung erforderlich, Alleinlage...",
+    "consent": "Ich stimme der Verarbeitung meiner Angaben zur Angebotserstellung zu.",
+    "submit": "Anfrage absenden",
+    "sending": "Wird gesendet...",
+    "successTitle": "Vielen Dank für Ihre Anfrage!",
+    "successMessage": "Ihre Nachricht ist eingegangen. Wir melden uns schnellstmöglich bei Ihnen.",
+    "errorTitle": "Fehler beim Absenden",
+    "errorMessage": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut oder rufen Sie uns direkt an.",
+    "sendAnother": "Weitere Anfrage senden"
+  },
+  "contact": {
+    "title": "Direkter Kontakt",
+    "subtitle": "Für alle Anfragen stehen wir Ihnen werktags zur Verfügung.",
+    "phone": "Telefon",
+    "phoneVal": "+381 60 000 0000",
+    "email": "E-Mail",
+    "emailVal": "info@domovik.rs",
+    "workingHours": "Öffnungszeiten",
+    "workingHoursVal": "Montag - Samstag: 08:00 - 20:00 Uhr",
+    "serviceArea": "Einsatzgebiet",
+    "serviceAreaVal": "Vojvodina & Region Belgrad (Novi Sad, Subotica, Zrenjanin, Sombor, Pančevo, Belgrad)",
+    "whatsapp": "Nachricht per WhatsApp",
+    "viber": "Nachricht per Viber",
+    "emergencyNote": "Domovik ist keine Sicherheitsagentur und bietet keine physischen Sicherheitsdienste an. Wir besichtigen die Anlage regelmäßig, prüfen den Zustand und informieren Sie mit einem Bericht über alles."
+  },
+  "servicesPage": {
+    "title": "Unsere Dienstleistungen & Pakete",
+    "subtitle": "Regelmäßige Inspektionen, Zustandsprüfungen, Berichte und zusätzliche Wartungsleistungen.",
+    "introTitle": "Warum ist eine regelmäßige Kontrolle notwendig?",
+    "introText": "In einem leeren Haus können sich schnell Feuchtigkeit, Staub und unbemerkte Probleme ansammeln. Bei regelmäßigen Besichtigungen stellen wir Leckagen, Schäden und Veränderungen im Gebäude fest. Domovik ist Ihr lokaler Support, während Sie nicht anwesend sind.",
+    "includedTitle": "Standard-Besichtigungsprotokoll",
+    "extraTitle": "Optionale Zusatzleistungen",
+    "pricingTitle": "Monatliche Pakete im Vergleich"
+  },
+  "visitChecklist": {
+    "title": "15-Punkte-Besichtigungsprotokoll",
+    "subtitle": "Jeder Kontrollbesuch folgt einem standardisierten Prüfplan.",
+    "notice": "Alle Videos und Fotos werden auf einem privaten Server archiviert und stehen dem Eigentümer jederzeit zur Verfügung.",
+    "steps": [
+      {
+        "title": "1. Ankunft & GPS-Check-in",
+        "desc": "Digitale Erfassung von Ankunftszeit und Standort per App."
+      },
+      {
+        "title": "2. Start der Videoaufzeichnung",
+        "desc": "Einschalten der HD-Kamera bereits beim Zugang zum Tor und Grundstück."
+      },
+      {
+        "title": "3. Perimeter- und Zaunkontrolle",
+        "desc": "Prüfung von Zäunen, Toren, Regenrinnen und Wegen."
+      },
+      {
+        "title": "4. Eingangstüren & Schlösser",
+        "desc": "Physische Überprüfung der Korrektheit von Schlössern und Türrahmen."
+      },
+      {
+        "title": "5. Fenster & Rollläden",
+        "desc": "Übersicht über Fenster, Schließmechanismen und Jalousien."
+      },
+      {
+        "title": "6. Wasser- und Sanitärprüfung",
+        "desc": "Zählerstand notieren, Prüfung auf Undichtigkeiten oder Tropfstellen."
+      },
+      {
+        "title": "7. Strom- und Zählerkontrolle",
+        "desc": "Sicherungskasten kontrollieren, Betrieb von Kühlschränken prüfen."
+      },
+      {
+        "title": "8. Briefkastenleerung",
+        "desc": "Entnahme der Post, Fotografie wichtiger amtlicher Schreiben."
+      },
+      {
+        "title": "9. Garten- und Geländekontrolle",
+        "desc": "Sichtprüfung auf Astbruch, Rasenzustand und Wasseransammlungen."
+      },
+      {
+        "title": "10. Innenbegehung aller Räume",
+        "desc": "Prüfung von Wänden, Decken auf Durchfeuchtung und Raumluft."
+      },
+      {
+        "title": "Überprüfung von Sensoren und Geräten",
+        "desc": "Überprüfung von Rauchmeldern und Batterien an installierten Geräten."
+      },
+      {
+        "title": "12. Foto-Dokumentation",
+        "desc": "Aufnahme aller festgelegten Kontrollbereiche mit Zeitstempel."
+      },
+      {
+        "title": "13. Abschluss der Videoaufzeichnung",
+        "desc": "Schließung der Anlage und des Tores sowie abschließende Zustandsprüfung."
+      },
+      {
+        "title": "14. Versand des digitalen Berichts",
+        "desc": "Direkte Übermittlung des Prüfberichts via WhatsApp oder Portal."
+      },
+      {
+        "title": "15. Vorgehen bei Mängeln",
+        "desc": "Sofortige telefonische Abstimmung und koordinierte Mängelbehebung."
+      }
+    ]
+  },
+  "contractPage": {
+    "title": "Vertrag & Rechtssicherheit",
+    "subtitle": "Wir arbeiten ausschließlich auf Basis eines transparenten, schriftlichen Vertrags.",
+    "intro": "Die Schlüsselübergabe erfordert vollstes Vertrauen. Deshalb ist unsere Dienstleistung juristisch klar geregelt.",
+    "pillars": [
+      {
+        "title": "Was wir leisten",
+        "desc": "Regelmäßige Besichtigungen, Zustandskontrollen, Belüftung, Video-/Fotoberichterstattung und Koordination von Zusatzleistungen."
+      },
+      {
+        "title": "Was wir NICHT leisten",
+        "desc": "Wir sind keine Sicherheitsagentur und bieten keine physischen Sicherheitsdienste an. Wir übernehmen keine Garantie für die Sicherheit der Anlage; Wir sorgen für regelmäßige Kontrollen, Dokumentation und rechtzeitige Benachrichtigung der Eigentümer."
+      },
+      {
+        "title": "Umgang mit Schlüsseln",
+        "desc": "Bei Bedarf werden die Schlüssel nach Absprache abgeholt und protokolliert. Einzelheiten werden vertraglich geregelt."
+      },
+      {
+        "title": "Datenschutz & Diskretion",
+        "desc": "Foto- und Videodaten werden verschlüsselt gespeichert und niemals an Dritte weitergegeben."
+      }
+    ],
+    "emergencyTitle": "Vorgehensweise in Notsituationen",
+    "emergencySteps": [
+      "1. Sofortige Foto- und Videodokumentation ohne Spurenverwischung.",
+      "2. Dringender Anruf beim Eigentümer.",
+      "Wenn der Eigentümer nicht verfügbar ist: Gehen Sie nach dem vorab vereinbarten Plan vor und informieren Sie gegebenenfalls die zuständigen Dienste.",
+      "4. Bei Wasserschaden: Schließen des Haupthahns und Herbeirufen des Notdienstes.",
+      "Ein schriftlicher Bericht über die Veranstaltung und die ergriffenen Maßnahmen."
+    ],
+    "downloadTitle": "Mustervertrag herunterladen",
+    "downloadDesc": "Lesen Sie vorab unser Vertragsmuster mit allen rechtlichen Klauseln durch.",
+    "downloadBtn": "Mustervertrag herunterladen (PDF)"
+  },
+  "about": {
+    "title": "Über Domovik",
+    "subtitle": "Ihr verlässlicher, persönlicher und lokaler Hausbetreuer in Serbien.",
+    "storyTitle": "Warum es Domovik gibt",
+    "storyText": "Die Idee entstand aus eigener Erfahrung: Verwandte und Freunde in Wien, München und Zürich machten sich ständig Sorgen um ihr leerstehendes Eigentum in der Heimat. Nachbarn zu bitten ist auf Dauer unangenehm und selten professionell. Domovik bietet eine verlässliche, vertraglich gesicherte Lösung für jeden Hausbesitzer.",
+    "valuesTitle": "Unsere 4 Grundwerte",
+    "v1Title": "Bedingungsloses Vertrauen",
+    "v1Desc": "Wir behandeln Ihr Eigentum wie unser eigenes, mit höchster Diskretion.",
+    "v2Title": "Pünktliche Zuverlässigkeit",
+    "v2Desc": "Vereinbarte Intervalle halten wir bei jedem Wetter zuverlässig ein.",
+    "v3Title": "Volle Transparenz",
+    "v3Desc": "Jeder Schritt wird durch Video und GPS-Fotos nachvollziehbar belegt.",
+    "v4Title": "Einfache Kommunikation",
+    "v4Desc": "Erreichbarkeit direkt über WhatsApp und Viber auf Deutsch und Serbisch."
+  },
+  "footer": {
+    "description": "Regelmäßige Besichtigungen, Zustandsprüfungen und Wartung von Häusern und Wohnungen in Serbien.",
+    "navigation": "Navigation",
+    "servicesTitle": "Dienstleistungen",
+    "legalTitle": "Rechtliches",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "rights": "Alle Rechte vorbehalten.",
+    "directLine": "WhatsApp / Viber Direktleitung"
+  },
+  "common": {
+    "readMore": "Mehr erfahren",
+    "back": "Zurück",
+    "send": "Senden",
+    "applyNow": "Jetzt anfragen",
+    "learnMore": "Details",
+    "phone": "Anrufen",
+    "callUs": "Anruf"
+  },
+  "landing": {
+    "hero": {
+      "slides": [
+        {
+          "badge": "Regelmäßige Betreuung Ihrer Immobilie in Serbien",
+          "title": "Während Ihrer Abwesenheit wird Ihr Zuhause regelmäßig überprüft",
+          "description": "Regelmäßige Führungen, ausführliche Video- und Fotoreportagen und Überprüfung des Anlagenzustandes. Ein friedlicher Traum für Eigentümer, die im Ausland leben und arbeiten.",
+          "imageAlt": "Einfamilienhaus in Novi Sad – regelmäßige Zustandsprüfung",
+          "topBadgeLabel": "Regelmäßige Tour",
+          "topBadgeValue": "Objektzustand erfasst",
+          "bottomBadgeLabel": "Foto- und Videobericht",
+          "bottomBadgeValue": "Jedes Detail dokumentiert",
+          "location": "Vojvodina und Belgrad",
+          "primaryLabel": "Planen Sie eine Tour",
+          "secondaryLabel": "Öffnen Sie das Demo-Portal",
+          "checklist": [
+            "Regelmäßige Führungen",
+            "Foto- und Videobericht",
+            "Zusatzleistungen nach Vereinbarung"
+          ]
+        },
+        {
+          "badge": "Digitaler Bericht nach jeder Tour",
+          "title": "Jedes Detail Ihres Zuhauses auf Ihrem Telefon",
+          "description": "Nach jeder Tour erhalten Sie per WhatsApp und E-Mail ein Video, Fotos mit Datum und Ort sowie eine vollständige Checkliste.",
+          "imageAlt": "Ein Haus in der Vojvodina – ein Beispiel für einen Reisebericht",
+          "topBadgeLabel": "Bericht Nr. 048",
+          "topBadgeValue": "Abgeschlossen • Novi Sad",
+          "bottomBadgeLabel": "Datum, Uhrzeit und Ort",
+          "bottomBadgeValue": "45,2238° N, 19,8451° E",
+          "location": "Novi Sad, Sremska Kamenica",
+          "primaryLabel": "Sehen Sie sich einen Beispielbericht an",
+          "secondaryLabel": "Wie sieht die Tour aus?",
+          "checklist": [
+            "Foto und Video",
+            "Eine 15-Punkte-Checkliste",
+            "Bericht über WhatsApp und E-Mail"
+          ]
+        },
+        {
+          "badge": "Zusatzleistungen nach Vereinbarung",
+          "title": "Mehr als eine Tour – die Pflege Ihres Zuhauses",
+          "description": "Die Blumen gießen, den Rasen mähen, die Bäume beschneiden, das Haus reinigen und für Ihre Ankunft vorbereiten. Alles nach Vereinbarung und zum Sonderpreis.",
+          "imageAlt": "Garten- und Rasenpflege",
+          "topBadgeLabel": "Zusätzliche Dienstleistungen",
+          "topBadgeValue": "Nach Vereinbarung",
+          "bottomBadgeLabel": "Für Ihr Zuhause",
+          "bottomBadgeValue": "Bereit zur Ankunft",
+          "location": "Vojvodina und Belgrad",
+          "primaryLabel": "Planen Sie einen Service",
+          "secondaryLabel": "Siehe Dienstleistungen",
+          "checklist": [
+            "Pflanzen gießen",
+            "Mähen und Trimmen",
+            "Das Haus reinigen und vorbereiten"
+          ]
+        }
+      ],
+      "previous": "Vorherige Folie",
+      "next": "Nächste Folie",
+      "slideLabel": "Folie {index}: {title}",
+      "scroll": "Scrollen",
+      "live": "Live"
+    },
+    "threeD": {
+      "badge": "Interaktive 3D-Übersicht des Objekts",
+      "title": "Vollständiger Einblick in jeden Bereich Ihres Hauses",
+      "subtitle": "Klicken Sie auf die Punkte am Haus und sehen Sie, welche Teile des Grundstücks unser Team bei einer regelmäßigen Besichtigung prüft.",
+      "hud": "ANZEIGE: Regelmäßige Überprüfung",
+      "security": "Draußen",
+      "utilities": "Installationen",
+      "greenZone": "5 von 5 Bewertungspunkten angegeben",
+      "selected": "Ausgewählt: {name}",
+      "quickSelect": "Schnellauswahl des Ansichtspunkts:",
+      "hotspots": [
+        {
+          "name": "Haustür",
+          "category": "Draußen",
+          "value": "Geschlossen • Geprüft",
+          "detail": "Sichtprüfung der Haustür und des Schlosses bei jedem Besuch."
+        },
+        {
+          "name": "Sanitäreinheit und Ventile",
+          "category": "Installationen",
+          "value": "Keine sichtbaren Lecks",
+          "detail": "Überprüfung von Wasserzählern, Ventilen und Wasserhähnen. Beobachtete Unregelmäßigkeiten werden dokumentiert und Ihnen gemeldet."
+        },
+        {
+          "name": "Elektrischer Verteilerschrank",
+          "category": "Installationen",
+          "value": "Status aufgezeichnet",
+          "detail": "Verbrauchsmessung und Sichtprüfung der Sicherungen."
+        },
+        {
+          "name": "Fenster und Jalousien",
+          "category": "Draußen",
+          "value": "Geschlossen • Geprüft",
+          "detail": "Kontrolle von Fenstern, Balkontüren und Jalousien."
+        },
+        {
+          "name": "Fassade, Dachrinnen und Einfahrt",
+          "category": "Außen",
+          "value": "Gesehen",
+          "detail": "Sichtprüfung der Fassade, Dachrinnen und Einfahrt."
+        }
+      ],
+      "imageAlt": "Ein Haus in der Vojvodina – ein Beispiel für ein Objekt"
+    },
+    "services": {
+      "badge": "Standardprotokoll",
+      "titles": [
+        "Sichtprüfung",
+        "Schlösser & Fenster",
+        "Wasser & Strom",
+        "Post & Garten",
+        "Fotobericht",
+        "Handwerkerkoordination"
+      ],
+      "perVisit": "Bei jedem Besuch",
+      "bannerTitle": "Möchten Sie jeden Schritt im Detail sehen?",
+      "bannerText": "Sehen Sie unser vollständiges 15-Punkte-Prüfprotokoll – von der Ankunft bis zur Berichtszustellung.",
+      "previousServices": "Vorherige Leistungen",
+      "nextServices": "Nächste Leistungen"
+    },
+    "comparison": {
+      "badge": "Interaktiver Vergleich",
+      "title": "Der Unterschied, den Sie und Ihre Nachbarn bemerken",
+      "subtitle": "Ziehen Sie den Schieberegler und vergleichen Sie, wie ein Haus ohne regelmäßige Pflege mit einem Haus aussieht, das regelmäßig inspiziert und gewartet wird.",
+      "afterBadge": "Bei regelmäßiger Pflege",
+      "beforeBadge": "Keine regelmäßige Pflege",
+      "afterTitle": "Ordentlich und klar",
+      "afterText": "Gras gemäht, Kiste geleert, Ventile überprüft, Zustand notiert.",
+      "beforeTitle": "Ignoriert und unbemerkt",
+      "beforeText": "Überwuchertes Unkraut, überfüllter Posteingang, unbemerkte Feuchtigkeit.",
+      "mobileAfter": "Mit Domovik",
+      "mobileBefore": "Keine Sorge",
+      "helper": "Abbildung: Vojvodina-Haus – ziehen Sie den Schieberegler, um den Unterschied anzuzeigen",
+      "aria": "Schieberegler zum Vergleich der Wohnbedingungen"
+    },
+    "bento": {
+      "badge": "Ein moderner Pflegestandard",
+      "title": "Alles, was sich um Ihr Zuhause kümmert",
+      "subtitle": "Regelmäßige Rundgänge, digitale Reportagen und Zusatzleistungen nach Vereinbarung – alles an einem Ort.",
+      "rec": "REC • 1080p HD",
+      "gps": "GPS + Wetter",
+      "videoLabel": "Video- und Fotodokumentation",
+      "videoTitle": "Jede Tour wird mit Fotos und Videos dokumentiert",
+      "videoText": "Die Annäherung an das Gebäude, die Besichtigung der Räumlichkeiten und aller Installationen werden auf Video aufgezeichnet und in Ihrem privaten Archiv gespeichert.",
+      "videoCta": "Protokoll von 15 Punkten",
+      "vaultCategory": "Zusätzliche Dienstleistungen",
+      "vaultTitle": "Gießen, mähen, trimmen und reinigen",
+      "vaultText": "Nach Vereinbarung übernehmen wir auch weitere Arbeiten: Pflanzen gießen, Gras mähen, Bäume beschneiden, reinigen und das Haus für Ihre Ankunft vorbereiten. Leistungen werden gesondert berechnet.",
+      "vaultFooter": "Nach Vereinbarung • Sonderpreis",
+      "waterBadge": "0 sichtbare Lecks",
+      "waterCategory": "Überprüfung von Installationen",
+      "waterTitle": "Wasserzählerknoten, Ventile und Hähne",
+      "waterText": "Wir prüfen den Wasserzähler, Ventile und Wasserhähne. Wir dokumentieren festgestellte Unregelmäßigkeiten und informieren Sie.",
+      "waterFooterLabel": "Ablesung des Wasserzählers:",
+      "waterFooterValue": "Im Bericht festgehalten",
+      "electricBadge": "Gerätestatus",
+      "electricCategory": "Elektroinstallationen",
+      "electricTitle": "Strommesser und Sicherungen",
+      "electricText": "Wir lesen den Zustand des Stromzählers ab und prüfen die Sicherungen. Wenn uns eine Unregelmäßigkeit auffällt, benachrichtigen wir Sie.",
+      "electricFooterLabel": "Aktueller Zählerstand:",
+      "electricFooterValue": "Im Bericht fotografiert",
+      "emergencyCategory": "Regelmäßige Führungen",
+      "emergencyTitle": "Touren nach einem Zeitplan, der zu Ihnen passt",
+      "emergencyText": "Sie wählen die Häufigkeit der Besuche – einmal, zweimal oder viermal im Monat. Zu jeder Tour gehört eine Zustandsprüfung und ein Bericht.",
+      "emergencyFooter": "Keine versteckten Kosten"
+    },
+    "report": {
+      "badge": "Beispiel eines Berichts nach der Tour",
+      "title": "Wie sieht der Bericht aus, den Sie nach jeder Tour erhalten?",
+      "subtitle": "Kein Rätselraten. Nach dem Besuch wird ein vollständiger Bericht an WhatsApp und E-Mail gesendet: Fotos mit Datum und Ort, Installationsstatus und ein Link zum Video.",
+      "feature1Title": "Datum und Uhrzeit",
+      "feature1Desc": "In den Metadaten werden Datum und Uhrzeit jeder Aufnahme erfasst.",
+      "feature2Title": "Tourort",
+      "feature2Desc": "Bestätigung, dass sich der Mitarbeiter an der Adresse der Einrichtung aufgehalten hat.",
+      "feature3Title": "HD-Video der Tour",
+      "feature3Desc": "Privat archiviertes Video von Einfahrten, Fenstern und Räumen.",
+      "phoneTitle": "Domovik-Bericht Nr. 048",
+      "phoneLocation": "Novi Sad, Sremska Kamenica",
+      "phoneStatus": "Fertig",
+      "photoCaption": "Überblick über das Äußere und die Fassade",
+      "photoCounter": "1/14 Foto",
+      "checklistTitle": "Checklistenstatus (15 Punkte)",
+      "check1": "Hauptwasserventil und Wasserhahn",
+      "check1Value": "Keine sichtbaren Lecks",
+      "check2": "Stromzähler und Kühlschrank",
+      "check2Value": "14.820 kWh • Aufgezeichnet",
+      "check3": "Fenster und Schlösser",
+      "check3Value": "Geschlossen und überprüft",
+      "check4": "Briefkasten",
+      "check4Value": "3 Buchstaben (fotografiert)",
+      "videoCta": "Sehen Sie sich das HD-Video der Tour an (03:45 Min.)"
+    },
+    "additionalEyebrow": "Zusätzliche Dienstleistungen",
+    "targetEyebrow": "Für wen ist es gedacht?",
+    "trustEyebrow": "Unser Ansatz"
+  }
+}

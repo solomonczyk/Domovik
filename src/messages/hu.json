@@ -1,0 +1,642 @@
+{
+  "cookies": {
+    "title": "Adatvédelem és süti (cookie) beállítások",
+    "description": "Sütiket használunk a zökkenőmentes böngészés, a látogatottsági elemzések és a nyelvi beállítások megőrzése érdekében.",
+    "acceptAll": "Összes elfogadása",
+    "necessaryOnly": "Csak a szükségesek",
+    "settings": "Testreszabás",
+    "save": "Beállítások mentése",
+    "necessaryTitle": "Szükséges sütik",
+    "necessaryDesc": "Elengedhetetlenek az oldal alapvető működéséhez, a biztonsághoz és a navigációhoz. Nem kapcsolhatók ki.",
+    "analyticsTitle": "Analitikai sütik",
+    "analyticsDesc": "Segítenek megérteni az oldalhasználatot, javítva a sebességet és a felhasználói élményt.",
+    "preferencesTitle": "Beállítási sütik",
+    "preferencesDesc": "Megjegyzik az Ön által választott nyelvet és preferenciákat.",
+    "cookiePolicy": "Tudjon meg többet adatvédelmi tájékoztatónkban",
+    "manageCookies": "Süti beállítások"
+  },
+  "metadata": {
+    "title": "Domovik — Rendszeres látogatások és otthoni ápolás Szerbiában",
+    "description": "Rendszeres túrák, állapotellenőrzések, fotó- és videóriportok, valamint további karbantartási szolgáltatások szerbiai házakhoz és apartmanokhoz."
+  },
+  "dashboard": {
+    "title": "Ügyfélkapu",
+    "welcome": "Üdvözöljük újra",
+    "property": "Saját ingatlan",
+    "plan": "Aktív csomag",
+    "nextVisit": "Következő tervezett ellenőrzés",
+    "securityStatus": "Objektum állapota",
+    "allSecure": "Minden rendben",
+    "lastReport": "Legutóbbi jelentés",
+    "visitHistory": "Korábbi ellenőrzések",
+    "documents": "Szerződések és számlák",
+    "requestService": "Kiegészítő szolgáltatás kérése",
+    "settings": "Fiókbeállítások",
+    "logout": "Kijelentkezés",
+    "viewReport": "Jelentés megtekintése",
+    "downloadPdf": "PDF letöltése",
+    "photos": "Fényképek",
+    "videoClip": "Videófelvétel",
+    "checklistStatus": "Ellenőrző lista",
+    "meters": "Mérőóra állások",
+    "electricity": "Villany",
+    "water": "Víz",
+    "incidents": "Események",
+    "zeroIncidents": "0 rögzített szabálytalanság",
+    "demoClient": "Demo Ügyfélfiók",
+    "quickDemoLogin": "Gyors belépés — Demo portál kipróbálása",
+    "demoNotice": "Bemutató ügyfélfiók valósághű jelentésekkel, GPS metaadatokkal és videóarchívummal.",
+    "newRequestTitle": "Rendkívüli vagy kiegészítő szolgáltatás igénylése",
+    "serviceType": "Szolgáltatás típusa",
+    "datePreferred": "Kért időpont",
+    "urgency": "Sürgősség",
+    "submitRequest": "Kérelem elküldése",
+    "requestSuccess": "Kérését sikeresen rögzítettük! Munkatársunk hamarosan keresni fogja.",
+    "contractSigned": "Aláírt írásbeli szerződés",
+    "keysSafe": "Kulcsok megegyezés szerint",
+    "viewContract": "Szerződés megtekintése"
+  },
+  "nav": {
+    "home": "Főoldal",
+    "services": "Szolgáltatások és árak",
+    "visitChecklist": "Ellenőrzési protokoll",
+    "contract": "Szerződés és felelősség",
+    "about": "Rólunk",
+    "contact": "Kapcsolat",
+    "dashboard": "Ügyfélkapu",
+    "login": "Belépés",
+    "requestQuote": "Ajánlatkérés",
+    "skener": "3D szkener",
+    "protection": "Gondoskodás",
+    "comparison": "Összehasonlítás",
+    "pricing": "Árak",
+    "faq": "GYIK"
+  },
+  "hero": {
+    "badge": "Ingatlanának rendszeres gondozása Szerbiában",
+    "title": "Ha távol van, rendszeresen ellenőrzik otthonát",
+    "subtitle": "Rendszeres túrák, részletes videó- ​​és fotóriportok, valamint a telepítések állapotának ellenőrzése. Békés álom külföldön élő és dolgozó tulajdonosok számára.",
+    "ctaApply": "Ajánlatkérés",
+    "ctaPricing": "Csomagok megtekintése",
+    "stat1Value": "100%",
+    "stat1Label": "Fotó- és videódokumentáció",
+    "stat2Value": "Rendszeresen",
+    "stat2Label": "Túrák megbeszélés szerint",
+    "stat3Value": "Jogi",
+    "stat3Label": "Írásbeli szerződés"
+  },
+  "howItWorks": {
+    "title": "Hogyan működik a szolgáltatás?",
+    "subtitle": "Egyszerű, átlátható folyamat 4 lépésben.",
+    "step1Title": "1. Ajánlatkérés és egyeztetés",
+    "step1Desc": "Adja meg ingatlana adatait és elhelyezkedését az űrlapon vagy üzenetben.",
+    "step2Title": "2. Megállapodás és kulcsátadás",
+    "step2Desc": "Meghatározzuk a látogatási rendet, aláírjuk a szerződést, a kulcsokat páncélszekrényben őrizzük.",
+    "step3Title": "3. Rendszeres felülvizsgálat",
+    "step3Desc": "Meglátogatjuk az ingatlant, videót rögzítünk, megvizsgáljuk a létesítmény beépítését, állapotát.",
+    "step4Title": "4. Azonnali digitális jelentés",
+    "step4Desc": "Még aznap megkapja a részletes jelentést fényképekkel WhatsApp-on vagy a portálon keresztül."
+  },
+  "baseServices": {
+    "title": "Mit tartalmaz minden alapellenőrzés?",
+    "subtitle": "Az ingatlan legfontosabb pontjainak körültekintő vizsgálata minden alkalommal.",
+    "inspection": "A belső terek és homlokzat vizuális ellenőrzése sérülések és beázások szempontjából",
+    "windowsDoors": "Ablakok, erkélyajtók, zárak és rácsok ellenőrzése",
+    "utilities": "Víz- és villanyórák leolvasása, csaptelepek és szivárgások ellenőrzése",
+    "mailYard": "Postaláda ürítése, kerítés és udvar átvizsgálása",
+    "photoReport": "Részletes fotódokumentáció pontos időbélyeggel és GPS adatokkal",
+    "problemAlert": "A tulajdonos azonnali értesítése bármilyen rendellenesség esetén",
+    "callSpecialist": "Kézművesek (vízvezeték-szerelő, villanyszerelő, üveges) szervezése, koordinálása jóváhagyás alapján"
+  },
+  "additionalServices": {
+    "title": "Kiegészítő szolgáltatások",
+    "subtitle": "Egyéni igényekhez és időbeosztáshoz igazítva.",
+    "onDemand": "Egyeztetés szerint",
+    "cleaning": {
+      "title": "Alap- és érkezés előtti takarítás",
+      "desc": "Alapos takarítás az Ön érkezése előtt vagy hosszabb távollét után."
+    },
+    "yardCare": {
+      "title": "Udvar- és fűgondozás",
+      "desc": "Fűnyírás, sövényvágás, falevelek eltakarítása és hóeltakarítás."
+    },
+    "petCare": {
+      "title": "Házikedvencek gondozása",
+      "desc": "Rövid távollétek során az udvaron maradt állatok etetése és felügyelete."
+    },
+    "plantWatering": {
+      "title": "Növények öntözése",
+      "desc": "Szobanövények, balkonvirágok és kerti ágyások rendszeres locsolása."
+    },
+    "ventilation": {
+      "title": "Alapos átszellőztetés",
+      "desc": "Friss levegő biztosítása a penészedés és dohos szagok megelőzése érdekében."
+    },
+    "prepareArrival": {
+      "title": "Érkezési felkészítés",
+      "desc": "Fűtés/hűtés bekapcsolása, bojler elindítása és alapvető bevásárlás."
+    },
+    "eyebrow": "További szolgáltatások"
+  },
+  "targetAudience": {
+    "title": "Kinek szól ez a szolgáltatás?",
+    "subtitle": "Olyan tulajdonosoknak, akik fizikailag nem tudják rendszeresen ellenőrizni otthonukat.",
+    "diaspora": {
+      "title": "Külföldön élő vajdaságiak és diaszpóra",
+      "desc": "Ön külföldön él és dolgozik, és rendszeresen ellenőrizni szeretné, hogy családja Szerbiában jó állapotban van-e."
+    },
+    "foreignOwners": {
+      "title": "Külföldi ingatlantulajdonosok Szerbiában",
+      "desc": "Befektetők és nyaralótulajdonosok, akik megbízható helyi partnert keresnek."
+    },
+    "travelWorkers": {
+      "title": "Kamionsofőrök és kiküldetésben dolgozók",
+      "desc": "Hónapokig távol lévő szakemberek, akiknek nincs idejük a ház körüli teendőkre."
+    },
+    "rentalOwners": {
+      "title": "Rövid távú lakáskiadók",
+      "desc": "Vendégek közötti ellenőrzés, károk felmérése és átvételi felügyelet."
+    },
+    "eyebrow": "Kinek szánják?"
+  },
+  "trust": {
+    "title": "Miért bízhat meg bennünk?",
+    "subtitle": "Kapcsolatunkat átláthatóságra, írásbeli szerződésre és hiteles jelentésekre építjük.",
+    "videoEvery": {
+      "title": "Videófelvétel minden alkalommal",
+      "desc": "Az érkezés, a helyiségek bejárása és a távozás videóra kerül, amelyet biztonságosan archiválunk."
+    },
+    "writtenContract": {
+      "title": "Jogi érvényű írásbeli szerződés",
+      "desc": "Egyértelműen meghatározott kötelezettségek, megállapodás a kulcsokról és a felelősség határairól."
+    },
+    "geoPhotos": {
+      "title": "Időbélyeggel és GPS-szel ellátott fotók",
+      "desc": "Minden fénykép tartalmazza a készítés pontos dátumát, idejét és koordinátáit."
+    },
+    "transparentPricing": {
+      "title": "Fix és átlátható árak",
+      "desc": "Nincsenek rejtett költségek. Bármilyen többletmunkát előre egyeztetünk Önnel."
+    },
+    "eyebrow": "A mi megközelítésünk"
+  },
+  "pricing": {
+    "title": "Csomagok és árak",
+    "subtitle": "Válassza ki az ingatlana igényeinek leginkább megfelelő ellenőrzési gyakoriságot.",
+    "popular": "Legnépszerűbb",
+    "choosePlan": "Csomag kiválasztása",
+    "perMonth": "/ hó",
+    "basic": {
+      "name": "Alap",
+      "price": "€49",
+      "desc": "Havi 1 ellenőrzés — lakások és újabb építésű ingatlanok számára",
+      "features": [
+        "Havi 1 alapos helyszíni ellenőrzés",
+        "Közművek és zárak szemrevételezése",
+        "Fotójelentés (10-15 fotó)",
+        "Postaláda ürítése",
+        "Jelentés WhatsApp-on vagy e-mailben"
+      ]
+    },
+    "plus": {
+      "name": "Standard Plus",
+      "price": "€89",
+      "desc": "Havi 2 látogatás (2 hetente) – optimális ellátás",
+      "features": [
+        "Havi 2 alapos helyszíni ellenőrzés",
+        "Teljes videófelvétel minden alkalommal",
+        "Víz, villany és gáz részletes ellenőrzése",
+        "Mesterek szervezése, koordinálása megbízás nélkül",
+        "Prioritásos viharkár-ellenőrzés",
+        "Hozzáférés az ügyfélportálhoz"
+      ]
+    },
+    "premium": {
+      "name": "Prémium",
+      "price": "€149",
+      "desc": "Havi 4 ellenőrzés (hetente) — teljes nyugalom",
+      "features": [
+        "Havi 4 ellenőrzés (heti rendszerességgel)",
+        "Részletes videó- és GPS-fotójelentés",
+        "Szobanövények locsolása benne foglaltatik",
+        "Szakipari munkák közvetítése és felügyelete",
+        "Érkezési felkészítés (évi 2 alkalommal)",
+        "Közvetlen telefonos kapcsolat a koordinátorral"
+      ]
+    },
+    "rentalNote": "Rövid távú kiadás esetén egyedi igényekre szabott csomagot készítünk.",
+    "customNote": "A pontos ár a távolság és az igényelt feladatok alapján kerül rögzítésre.",
+    "monthly": "Havi fizetés",
+    "semiAnnual": "Féléves / Éves",
+    "discount": "15% kedvezmény",
+    "savings": "15% megtakarítás",
+    "badge": "Átlátható és fix"
+  },
+  "faq": {
+    "title": "Gyakran Ismételt Kérdések",
+    "subtitle": "Válaszok a tulajdonosok leggyakoribb felmerülő kérdéseire.",
+    "q1": "Mi történik, ha meghibásodást, vízszivárgást vagy sérülést észlel?",
+    "a1": "Azonnal felvesszük Önnel a kapcsolatot és küldünk fényképes/videós bizonyítékot. Az észlelt hibák esetén a következő lépéseket javasoljuk, és az Ön beleegyezésével egyeztetünk egy szerelőt. A Domovik nem nyújt biztonsági szolgáltatásokat, és nem vállal garanciát a betörés megelőzésére.",
+    "q2": "Hogyan történik a kulcsok tárolása?",
+    "a2": "A kulcsokat jegyzőkönyvvel vesszük át, és tűzálló, számkódos széfben őrizzük. Minden kulcskiadás naplózva van.",
+    "q3": "Hogyan lehetek biztos abban, hogy valóban megtörtént a látogatás?",
+    "a3": "Minden látogatást hitelesített GPS és időbélyeges fotók, valamint videófelvétel bizonyít.",
+    "q4": "Lehetőség van egyszeri eseti ellenőrzésre is?",
+    "a4": "Igen, vállalunk eseti felülvizsgálatot is — például erős viharok, jégeső után vagy csomagátvétel céljából.",
+    "q5": "Tud további szolgáltatásokat nyújtani?",
+    "a5": "Igen – a növények öntözése, fűnyírás, fák nyírása, takarítás és az otthon előkészítése az érkezésre. A további szolgáltatásokról külön állapodnak meg, és külön díjat számítanak fel.",
+    "q6": "Mi a te felelősséged?",
+    "a6": "Rendszeres túrákat, állapotellenőrzéseket, beszámolókat biztosítunk a szerződésnek megfelelően. Nem vagyunk biztonsági ügynökség, és nem vállalunk garanciát a létesítmény biztonságára."
+  },
+  "cta": {
+    "title": "Bízza otthona gondozását",
+    "subtitle": "Vegye fel velünk a kapcsolatot ingyenes állapotfelmérésért és ajánlatért.",
+    "button": "Ajánlatkérés küldése"
+  },
+  "contactForm": {
+    "title": "Ingyenes felmérés igénylése",
+    "subtitle": "Töltse ki a rövid űrlapot, és néhány órán belül válaszolunk.",
+    "name": "Teljes név",
+    "namePlaceholder": "pl. Kovács János",
+    "phone": "Telefonszám (WhatsApp / Viber)",
+    "phonePlaceholder": "+381 60 123 4567 vagy +36 30...",
+    "email": "E-mail cím",
+    "emailPlaceholder": "kovacs@pelda.hu",
+    "city": "Település / Község",
+    "cityPlaceholder": "pl. Szabadka, Újvidék, Zenta, Belgrád...",
+    "propertyType": "Ingatlan típusa",
+    "selectType": "Válasszon típust",
+    "house": "Családi ház udvarral",
+    "apartment": "Társasházi lakás",
+    "rental": "Rövid távon kiadott apartman",
+    "comment": "Megjegyzés vagy egyedi kérés (opcionális)",
+    "commentPlaceholder": "pl. kertöntözés szükséges, elhagyatott környék stb.",
+    "consent": "Hozzájárulok a megadott adatok kezeléséhez ajánlattétel céljából.",
+    "submit": "Ajánlatkérés elküldése",
+    "sending": "Küldés...",
+    "successTitle": "Köszönjük megkeresését!",
+    "successMessage": "Üzenetét sikeresen megkaptuk. Hamarosan felvesszük Önnel a kapcsolatot.",
+    "errorTitle": "Hiba történt a küldés során",
+    "errorMessage": "Kérjük, próbálja újra, vagy keressen minket közvetlenül telefonon/WhatsApp-on.",
+    "sendAnother": "Újabb ajánlatkérés küldése"
+  },
+  "contact": {
+    "title": "Közvetlen kapcsolat",
+    "subtitle": "Minden munkanapon készséggel állunk rendelkezésére.",
+    "phone": "Telefon",
+    "phoneVal": "+381 60 000 0000",
+    "email": "E-mail",
+    "emailVal": "info@domovik.rs",
+    "workingHours": "Nyitvatartás",
+    "workingHoursVal": "Hétfőtől szombatig: 08:00-20:00",
+    "serviceArea": "Szolgáltatási terület",
+    "serviceAreaVal": "Vajdaság és Belgrád környéke (Újvidék, Szabadka, Nagybecskerek, Zombor, Pancsova, Belgrád)",
+    "whatsapp": "Írjon nekünk WhatsApp-on",
+    "viber": "Írjon nekünk Viber-en",
+    "emergencyNote": "A Domovik nem biztonsági ügynökség, és nem nyújt fizikai biztonsági szolgáltatásokat. Rendszeresen járjuk a létesítményt, ellenőrizzük állapotát és mindenről jegyzőkönyvvel tájékoztatunk."
+  },
+  "servicesPage": {
+    "title": "Szolgáltatásaink és csomagjaink",
+    "subtitle": "Rendszeres ellenőrzések, állapotellenőrzések, jelentések és kiegészítő karbantartási szolgáltatások.",
+    "introTitle": "Miért szükséges a rendszeres ellenőrzés?",
+    "introText": "Egy üres házban gyorsan felhalmozódhat a nedvesség, a por és az észrevétlen problémák. Rendszeres látogatásokkal észleljük a szivárgásokat, sérüléseket, változásokat az épületben. Domovik az Ön helyi támogatása, amíg Ön nincs jelen.",
+    "includedTitle": "Standard ellenőrzési protokoll",
+    "extraTitle": "Kiegészítő szolgáltatások",
+    "pricingTitle": "Havi csomagok összehasonlítása"
+  },
+  "visitChecklist": {
+    "title": "15 lépéses ellenőrzési protokoll",
+    "subtitle": "Minden látogatás során szigorúan betartott ellenőrző lista.",
+    "notice": "Minden videó és fotó egy privát szerveren archiválva van, és bármikor elérhető a tulajdonos számára.",
+    "steps": [
+      {
+        "title": "1. Érkezés és GPS bejelentkezés",
+        "desc": "A pontos érkezési idő rögzítése az applikáción keresztül."
+      },
+      {
+        "title": "2. Videófelvétel megkezdése",
+        "desc": "A kamera bekapcsolása már a kapuhoz közeledve."
+      },
+      {
+        "title": "3. Kerítés és telekhatár ellenőrzése",
+        "desc": "Kerítés, kapu, ereszcsatornák és járda átvizsgálása."
+      },
+      {
+        "title": "4. Bejárati ajtók és zárak",
+        "desc": "A zárak és ajtókeretek helyességének fizikai ellenőrzése."
+      },
+      {
+        "title": "5. Ablakok és redőnyök",
+        "desc": "Az ablakok, zárószerkezetek és redőnyök áttekintése."
+      },
+      {
+        "title": "6. Vízvezetékek és órák",
+        "desc": "Vízóra leolvasása, csapok ellenőrzése, szivárgások keresése."
+      },
+      {
+        "title": "7. Elektromos rendszer",
+        "desc": "Biztosítéktábla átnézése, működő hűtők és fagyasztók vizsgálata."
+      },
+      {
+        "title": "8. Postaláda ürítése",
+        "desc": "Levelek, számlák kivétele és a fontosak lefotózása."
+      },
+      {
+        "title": "9. Udvar és kert állapota",
+        "desc": "Letört ágak, fűmagasság, csapadékelvezetés ellenőrzése."
+      },
+      {
+        "title": "10. Helyiségek bejárása",
+        "desc": "Falak, mennyezet beázásainak vizsgálata, szagok és szellőzés ellenőrzése."
+      },
+      {
+        "title": "Érzékelők és eszközök ellenőrzése",
+        "desc": "Füstérzékelők és akkumulátorok ellenőrzése a telepített eszközökön."
+      },
+      {
+        "title": "12. Fotódokumentáció készítése",
+        "desc": "Kulcspontok lefotózása időbélyeggel."
+      },
+      {
+        "title": "13. Videófelvétel befejezése",
+        "desc": "A létesítmény és a kapu zárása és végső állapotellenőrzés."
+      },
+      {
+        "title": "14. Digitális jelentés elküldése",
+        "desc": "Azonnali jelentés képekkel WhatsApp-ra vagy a portálra."
+      },
+      {
+        "title": "15. Eljárás hiba esetén",
+        "desc": "Azonnali telefonos egyeztetés a tulajdonossal és intézkedés."
+      }
+    ]
+  },
+  "contractPage": {
+    "title": "Szerződés és felelősségvállalás",
+    "subtitle": "Kizárólag átlátható, írásbeli szerződés alapján dolgozunk.",
+    "intro": "Házának kulcsát átadni nagy bizalom. Ezért együttműködésünk minden részletét szerződésben rögzítjük.",
+    "pillars": [
+      {
+        "title": "Mit vállalunk",
+        "desc": "Rendszeres túrák, állapotellenőrzés, szellőztetés, videó/fotó riport és kiegészítő szolgáltatások koordinálása."
+      },
+      {
+        "title": "Mit NEM vállalunk",
+        "desc": "Nem vagyunk biztonsági ügynökség, és nem nyújtunk fizikai biztonsági szolgáltatásokat. Nem garantáljuk a létesítmény biztonságát; rendszeres ellenőrzéseket, dokumentációt és a tulajdonosok időben történő értesítését biztosítjuk."
+      },
+      {
+        "title": "Kulcsokkal való foglalkozás",
+        "desc": "Szükség esetén a kulcsok átvétele megegyezés szerint történik és rögzítésre kerül. A részleteket szerződés szabályozza."
+      },
+      {
+        "title": "Adatvédelem és diszkréció",
+        "desc": "A felvételeket titkosított tárolón őrizzük, harmadik fél számára soha nem adjuk ki."
+      }
+    ],
+    "emergencyTitle": "Eljárás vészhelyzetekben",
+    "emergencySteps": [
+      "1. Azonnali fotó- és videódokumentáció a nyomok megőrzésével.",
+      "2. Sürgős telefonhívás a tulajdonosnak.",
+      "Ha a tulajdonos nem elérhető: az előre egyeztetett terv szerint járjon el és szükség esetén értesítse az illetékes szolgálatokat.",
+      "4. Csőtörés esetén: Főcsap elzárása és ügyeletes vízvezeték-szerelő hívása.",
+      "Írásos jelentés az eseményről és a megtett lépésekről."
+    ],
+    "downloadTitle": "Szerződéstervezet letöltése",
+    "downloadDesc": "Tekintse át a szerződésmintát a jogi feltételekkel az együttműködés megkezdése előtt.",
+    "downloadBtn": "Szerződésminta letöltése (PDF)"
+  },
+  "about": {
+    "title": "A Domovik szolgáltatásról",
+    "subtitle": "Az Ön megbízható, helyi és gondos partnere Szerbiában.",
+    "storyTitle": "Hogyan indult a Domovik?",
+    "storyText": "Személyes tapasztalatból indult: Bécsben, Münchenben és Zürichben élő barátaink és rokonaink állandóan aggódtak szerbiai házuk állapota miatt. A szomszédok megkérése gyakran kellemetlen és ritkán professzionális. A Domovik azért jött létre, hogy hivatalos megbízhatóságot és nyugalmat nyújtson.",
+    "valuesTitle": "A 4 alappillérünk",
+    "v1Title": "Feltétlen bizalom",
+    "v1Desc": "Úgy vigyázunk ingatlanaikra, mintha a sajátunk lenne, teljes diszkréció mellett.",
+    "v2Title": "Pontos megbízhatóság",
+    "v2Desc": "A megbeszélt időpontokat időjárástól függetlenül pontosan betartjuk.",
+    "v3Title": "Teljes átláthatóság",
+    "v3Desc": "Minden mozzanatot videóval és időbélyeges fotókkal igazolunk.",
+    "v4Title": "Gyors kommunikáció",
+    "v4Desc": "Könnyen elérhetőek vagyunk modern csatornákon: WhatsApp-on és Viber-en is."
+  },
+  "footer": {
+    "description": "Házak és lakások rendszeres látogatása, állapotellenőrzése és karbantartása Szerbiában.",
+    "navigation": "Navigáció",
+    "servicesTitle": "Szolgáltatások",
+    "legalTitle": "Jogi információk",
+    "privacy": "Adatvédelmi irányelvek",
+    "terms": "Felhasználási feltételek",
+    "rights": "Minden jog fenntartva.",
+    "directLine": "WhatsApp / Viber közvetlen vonal"
+  },
+  "common": {
+    "readMore": "Tudjon meg többet",
+    "back": "Vissza",
+    "send": "Küldés",
+    "applyNow": "Jelentkezés",
+    "learnMore": "Részletek",
+    "phone": "Hívjon minket",
+    "callUs": "Hívás"
+  },
+  "landing": {
+    "hero": {
+      "slides": [
+        {
+          "badge": "Ingatlanának rendszeres gondozása Szerbiában",
+          "title": "Ha távol van, rendszeresen ellenőrzik otthonát",
+          "description": "Rendszeres túrák, részletes videó- ​​és fotóriportok, valamint a telepítések állapotának ellenőrzése. Békés álom külföldön élő és dolgozó tulajdonosok számára.",
+          "imageAlt": "Újvidéki családi ház – rendszeres állapotellenőrzés",
+          "topBadgeLabel": "Rendszeres túra",
+          "topBadgeValue": "Az objektum állapota rögzített",
+          "bottomBadgeLabel": "Fotó és videó riport",
+          "bottomBadgeValue": "Minden részlet dokumentálva",
+          "location": "Vajdaság és Belgrád",
+          "primaryLabel": "Tervezz be egy túrát",
+          "secondaryLabel": "Nyissa meg a Demo portált",
+          "checklist": [
+            "Rendszeres túrák",
+            "Fotó és videó riport",
+            "További szolgáltatások megegyezés szerint"
+          ]
+        },
+        {
+          "badge": "Digitális riport minden túra után",
+          "title": "Otthonának minden részlete, a telefonon",
+          "description": "Videó, fotók dátummal és hellyel, valamint teljes ellenőrzőlista érkezik a WhatsApp-on és e-mailen keresztül minden körút után.",
+          "imageAlt": "Egy ház Vajdaságban — példa egy túrabeszámolóra",
+          "topBadgeLabel": "048-as jelentés",
+          "topBadgeValue": "Elkészült • Újvidék",
+          "bottomBadgeLabel": "Dátum, idő és hely",
+          "bottomBadgeValue": "45,2238° é. sz., 19,8451° K",
+          "location": "Újvidék, Sremska Kamenica",
+          "primaryLabel": "Tekintse meg a jelentésmintát",
+          "secondaryLabel": "Hogy néz ki a túra?",
+          "checklist": [
+            "Fotó és videó",
+            "15 pontos ellenőrző lista",
+            "Jelentés a WhatsApp-ról és e-mailekről"
+          ]
+        },
+        {
+          "badge": "További szolgáltatások megegyezés szerint",
+          "title": "Több, mint egy túra – gondoskodjon otthonáról",
+          "description": "Virágok öntözése, fűnyírás, fák nyírása, takarítás és az otthon előkészítése az érkezésedre. Minden megegyezés szerint és akciós áron.",
+          "imageAlt": "Udvar és fű karbantartása",
+          "topBadgeLabel": "További szolgáltatások",
+          "topBadgeValue": "Megbeszélés szerint",
+          "bottomBadgeLabel": "Az otthonodért",
+          "bottomBadgeValue": "Érkezésre készen",
+          "location": "Vajdaság és Belgrád",
+          "primaryLabel": "Szerviz ütemezése",
+          "secondaryLabel": "Lásd szolgáltatások",
+          "checklist": [
+            "Növények öntözése",
+            "Kaszálás és nyírás",
+            "Az otthon takarítása és előkészítése"
+          ]
+        }
+      ],
+      "previous": "Előző dia",
+      "next": "Következő dia",
+      "slideLabel": "{index} dia: {title}",
+      "scroll": "Görgetés",
+      "live": "Élő"
+    },
+    "threeD": {
+      "badge": "Interaktív 3D-s áttekintés az objektumról",
+      "title": "Teljes betekintés a ház minden zónájába",
+      "subtitle": "Kattintson a ház pontjaira, és nézze meg, hogy csapatunk az ingatlan mely részeit ellenőrzi egy rendszeres túra során.",
+      "hud": "KIJELZŐ: Rendszeres felülvizsgálat",
+      "security": "Kívül",
+      "utilities": "Telepítések",
+      "greenZone": "5-ből 5 értékelési pont megjegyezve",
+      "selected": "Kiválasztva: {name}",
+      "quickSelect": "Gyors nézőpont kiválasztása:",
+      "hotspots": [
+        {
+          "name": "Bejárati ajtó",
+          "category": "Kívül",
+          "value": "Zárt • Ellenőrizve",
+          "detail": "A bejárati ajtó és a zár szemrevételezése minden látogatáskor."
+        },
+        {
+          "name": "Vízvezeték-egység és szelepek",
+          "category": "Telepítések",
+          "value": "Nincs látható szivárgás",
+          "detail": "Vízmérők, szelepek, csaptelepek ellenőrzése. A megfigyelt szabálytalanságokat dokumentáljuk és jelentjük Önnek."
+        },
+        {
+          "name": "Elektromos elosztó szekrény",
+          "category": "Telepítések",
+          "value": "Állapot rögzített",
+          "detail": "Fogyasztás leolvasás és vizuális biztosíték ellenőrzés."
+        },
+        {
+          "name": "Ablakok és redőnyök",
+          "category": "Kívül",
+          "value": "Zárt • Ellenőrizve",
+          "detail": "Ablakok, erkélyajtók és redőnyök ellenőrzése."
+        },
+        {
+          "name": "Homlokzat, ereszcsatornák és autóbeálló",
+          "category": "Külső",
+          "value": "Megtekintve",
+          "detail": "A homlokzat, az ereszcsatornák és a felhajtó szemrevételezése."
+        }
+      ],
+      "imageAlt": "Egy ház Vajdaságban — példa egy tárgyra"
+    },
+    "services": {
+      "badge": "Standard protokoll",
+      "titles": [
+        "Vizuális ellenőrzés",
+        "Zárak és ablakok",
+        "Víz és áram",
+        "Posta és udvar",
+        "Fotóriport",
+        "Szakember-koordináció"
+      ],
+      "perVisit": "Minden látogatásban",
+      "bannerTitle": "Szeretné lépésről lépésre látni?",
+      "bannerText": "Tekintse meg teljes 15 pontos ellenőrzési protokollunkat az érkezéstől a riport elküldéséig.",
+      "previousServices": "Előző szolgáltatások",
+      "nextServices": "Következő szolgáltatások"
+    },
+    "comparison": {
+      "badge": "Interaktív összehasonlítás",
+      "title": "A különbséget Ön és szomszédai észreveszik",
+      "subtitle": "Húzza el a csúszkát, és hasonlítsa össze, hogyan néz ki egy rendszeres gondozás nélküli ház és egy rendszeresen ellenőrzött és karbantartott ház.",
+      "afterBadge": "Rendszeres gondozással",
+      "beforeBadge": "Nincs rendszeres ellátás",
+      "afterTitle": "Tiszta és tiszta",
+      "afterText": "Fűnyírás, doboz kiürítve, szelepek ellenőrizve, állapot feljegyezve.",
+      "beforeTitle": "Figyelmen kívül hagyva és észrevétlenül",
+      "beforeText": "Túlnőtt gaz, túlcsorduló postaláda, észrevétlen nedvesség.",
+      "mobileAfter": "Domovikkal",
+      "mobileBefore": "Semmi gond",
+      "helper": "Illusztráció: Vajdasági ház — húzza a csúszkát a különbség megjelenítéséhez",
+      "aria": "Otthoni állapot összehasonlító csúszka"
+    },
+    "bento": {
+      "badge": "Korszerű ellátási színvonal",
+      "title": "Minden, ami gondoskodik otthonáról",
+      "subtitle": "Rendszeres túrák, digitális jelentések és kiegészítő szolgáltatások előzetes egyeztetés alapján – mindez egy helyen.",
+      "rec": "REC • 1080p HD",
+      "gps": "GPS + időjárás",
+      "videoLabel": "Videó és fotó dokumentáció",
+      "videoTitle": "Minden túrát fotókkal és videóval dokumentálunk",
+      "videoText": "Az épület megközelítését, a helyiségek áttekintését és az összes telepítést videóra rögzítik, és az Ön privát archívumában tárolják.",
+      "videoCta": "15 pontos jegyzőkönyv",
+      "vaultCategory": "További szolgáltatások",
+      "vaultTitle": "Öntözés, kaszálás, nyírás és tisztítás",
+      "vaultText": "Megegyezés szerint további munkákat is vállalunk: növények öntözése, fűnyírás, fák nyírása, takarítás, otthon felkészítés az Ön érkezésére. A szolgáltatásokért külön kell fizetni.",
+      "vaultFooter": "Megegyezés szerint • Akciós ár",
+      "waterBadge": "0 látható szivárgás",
+      "waterCategory": "Telepítések ellenőrzése",
+      "waterTitle": "Vízmérő csomópont, szelepek és csapok",
+      "waterText": "Ellenőrizzük a vízórát, a szelepeket és a csapokat. A megfigyelt szabálytalanságokat dokumentáljuk és tájékoztatjuk.",
+      "waterFooterLabel": "Vízóra állása:",
+      "waterFooterValue": "Rögzítve a jelentésben",
+      "electricBadge": "Eszköz állapota",
+      "electricCategory": "Villanyszerelés",
+      "electricTitle": "Árammérő és biztosítékok",
+      "electricText": "Leolvassuk az árammérő állapotát és ellenőrizzük a biztosítékokat. Ha szabálytalanságot észlelünk, értesítjük.",
+      "electricFooterLabel": "A mérő aktuális állapota:",
+      "electricFooterValue": "A riportban fényképezve",
+      "emergencyCategory": "Rendszeres túrák",
+      "emergencyTitle": "Túrák az Ön számára megfelelő menetrend szerint",
+      "emergencyText": "Ön választhatja meg a látogatások gyakoriságát – havonta egyszer, kétszer vagy négyszer. Minden túra állapotellenőrzést és jelentést tartalmaz.",
+      "emergencyFooter": "Nincsenek rejtett költségek"
+    },
+    "report": {
+      "badge": "Példa a túra utáni beszámolóra",
+      "title": "Hogyan néz ki az egyes túrák után kapott beszámoló?",
+      "subtitle": "Nincs találgatás. A látogatás után teljes jelentést küldünk a WhatsApp-nak és e-mailben: fényképeket a dátummal és a hellyel, a telepítés állapotával és a videó linkjével.",
+      "feature1Title": "Dátum és idő",
+      "feature1Desc": "Az egyes felvételek dátuma és időpontja rögzítésre kerül a metaadatokban.",
+      "feature2Title": "A túra helyszíne",
+      "feature2Desc": "Annak megerősítése, hogy a munkatárs a létesítmény címén tartózkodik.",
+      "feature3Title": "HD videó a turnéról",
+      "feature3Desc": "Privát archivált videó a feljárókról, ablakokról és szobákról.",
+      "phoneTitle": "Domovik jelentés #048",
+      "phoneLocation": "Újvidék, Sremska Kamenica",
+      "phoneStatus": "Befejezett",
+      "photoCaption": "A külső és a homlokzat áttekintése",
+      "photoCounter": "1/14 fotó",
+      "checklistTitle": "Ellenőrzőlista állapota (15 pont)",
+      "check1": "Fő vízszelep és csaptelep",
+      "check1Value": "Nincs látható szivárgás",
+      "check2": "Villanyóra és hűtőszekrény",
+      "check2Value": "14 820 kWh • Felvett",
+      "check3": "Ablakok és zárak",
+      "check3Value": "Lezárva és ellenőrizve",
+      "check4": "Postafiók",
+      "check4Value": "3 betű (fényképezve)",
+      "videoCta": "Tekintse meg a turné HD videóját (03:45 perc)"
+    },
+    "additionalEyebrow": "További szolgáltatások",
+    "targetEyebrow": "Kinek szánják?",
+    "trustEyebrow": "A mi megközelítésünk"
+  }
+}
