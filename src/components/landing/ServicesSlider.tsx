@@ -13,9 +13,15 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 
 export function ServicesSlider({ children }: { children: ReactNode }) {
   const t = useTranslations("landing.services");
+  const containerRef = useRef<HTMLDivElement>(null);
   const trackRef = useRef<HTMLDivElement>(null);
   const [active, setActive] = useState(0);
+  const activeRef = useRef(0);
   const count = Children.count(children);
+
+  useEffect(() => {
+    activeRef.current = active;
+  }, [active]);
 
   const goTo = useCallback((index: number) => {
     const track = trackRef.current;
@@ -60,22 +66,55 @@ export function ServicesSlider({ children }: { children: ReactNode }) {
     return () => observer.disconnect();
   }, [updateActive]);
 
+  // Wheel over the carousel rotates it one card at a time.
+  // At the first/last card the event is not captured, so the page can continue scrolling.
+  useEffect(() => {
+    const el = containerRef.current;
+    if (!el) return;
+    let locked = false;
+
+    const onWheel = (event: WheelEvent) => {
+      const delta =
+        Math.abs(event.deltaX) > Math.abs(event.deltaY)
+          ? event.deltaX
+          : event.deltaY;
+      if (Math.abs(delta) < 4) return;
+
+      const nextIndex = activeRef.current + (delta > 0 ? 1 : -1);
+      if (nextIndex < 0 || nextIndex >= count) return;
+
+      event.preventDefault();
+      if (locked) return;
+      locked = true;
+      goTo(nextIndex);
+      window.setTimeout(() => {
+        locked = false;
+      }, 650);
+    };
+
+    el.addEventListener("wheel", onWheel, { passive: false });
+    return () => el.removeEventListener("wheel", onWheel);
+  }, [count, goTo]);
+
   return (
-    <div className="relative">
+    <div className="relative" ref={containerRef}>
       <div
         ref={trackRef}
         onScroll={updateActive}
-        className="flex snap-x snap-mandatory gap-4 overflow-x-auto px-[11vw] pb-8 pt-2 [scrollbar-width:none] sm:gap-5 sm:px-[max(8vw,calc((100vw-900px)/2))] [&::-webkit-scrollbar]:hidden"
+        className="flex snap-x snap-mandatory gap-4 overflow-x-auto px-[11vw] pb-8 pt-2 [perspective:1400px] [scrollbar-width:none] sm:gap-5 sm:px-[max(8vw,calc((100vw-900px)/2))] [&::-webkit-scrollbar]:hidden"
       >
         {Children.map(children, (child, index) => (
           <div
             key={index}
             data-service-card
-            className={`w-[78vw] max-w-[900px] shrink-0 snap-center transition-all duration-500 sm:w-[84vw] ${
-              active === index
-                ? "scale-100 opacity-100"
-                : "scale-[0.96] opacity-60"
-            }`}
+            className="relative w-[78vw] max-w-[900px] shrink-0 snap-center [transform-style:preserve-3d] sm:w-[84vw]"
+            style={{
+              transform: `rotateY(${(index - active) * -14}deg) translateX(${(index - active) * 18}px) translateZ(${Math.abs(index - active) * -70}px) scale(${active === index ? 1 : 0.94})`,
+              opacity: active === index ? 1 : 0.62,
+              zIndex: 10 - Math.abs(index - active),
+              transition:
+                "transform 600ms cubic-bezier(0.16, 1, 0.3, 1), opacity 600ms ease",
+            }}
           >
             {child}
           </div>
