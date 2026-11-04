@@ -121,7 +121,7 @@ export default async function DashboardVisitsPage({
                           }`}
                         >
                           {secure
-                            ? "Završeno • Bezbedno"
+                            ? "Završeno • U redu"
                             : `Završeno • ${issues.length} odstupanjâ`}
                         </span>
                       </div>

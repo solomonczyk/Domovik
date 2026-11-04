@@ -2,7 +2,7 @@ import Image from "next/image";
 import { Link } from "@/i18n/routing";
 import { getTranslations } from "next-intl/server";
 import {
-  ShieldCheck,
+  ClipboardCheck,
   Calendar,
   MapPin,
   Camera,
@@ -11,7 +11,7 @@ import {
   PlusCircle,
   MessageCircle,
   Download,
-  KeyRound,
+  Sparkles,
   Droplets,
   Zap,
   ArrowRight,
@@ -43,7 +43,7 @@ export default async function DashboardOverviewPage({
             {t("welcome")}, {user.firstName}
           </h1>
           <p className="text-xs sm:text-sm text-muted-foreground mt-0.5">
-            Vaš dom u Sremskoj Kamenici je pod aktivnim nadzorom. Poslednji pregled:{" "}
+            Vaš dom u Sremskoj Kamenici redovno obilazi naš tim. Poslednji pregled:{" "}
             <span className="font-semibold text-foreground">{latestVisit.date}</span>
           </p>
         </div>
@@ -86,7 +86,7 @@ export default async function DashboardOverviewPage({
             <div className="absolute bottom-4 left-4 right-4 text-white">
               <span className="px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-emerald-500 text-white inline-flex items-center gap-1.5 shadow-xs mb-2">
                 <span className="w-1.5 h-1.5 rounded-full bg-white animate-pulse"></span>
-                Štićeni objekat
+                Objekat pod brigom
               </span>
               <h2 className="text-lg font-bold drop-shadow-md">{property.name}</h2>
               <p className="text-xs text-slate-200 flex items-center gap-1 mt-0.5">
@@ -119,11 +119,11 @@ export default async function DashboardOverviewPage({
 
               <div className="p-3.5 rounded-2xl bg-muted/50 border border-border col-span-2 sm:col-span-1">
                 <span className="text-[10px] uppercase font-bold text-muted-foreground block">
-                  Čuvanje ključeva
+                  Dodatne usluge
                 </span>
                 <span className="text-sm font-bold text-foreground block mt-1 flex items-center gap-1.5">
-                  <KeyRound className="w-3.5 h-3.5 text-amber-500" />
-                  {property.keySafeCode}
+                  <Sparkles className="w-3.5 h-3.5 text-amber-500" />
+                  Po dogovoru
                 </span>
               </div>
             </div>
@@ -132,7 +132,7 @@ export default async function DashboardOverviewPage({
             <div className="p-4 rounded-2xl bg-primary/5 border border-primary/20 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
               <div className="flex items-center gap-3">
                 <div className="w-10 h-10 rounded-xl bg-emerald-500/10 text-emerald-600 flex items-center justify-center shrink-0">
-                  <ShieldCheck className="w-5 h-5" />
+                  <ClipboardCheck className="w-5 h-5" />
                 </div>
                 <div>
                   <p className="text-xs font-bold text-foreground">{t("allSecure")}</p>

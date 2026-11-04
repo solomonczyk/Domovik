@@ -213,7 +213,7 @@ export default async function VisitReportPage({
         <div>
           <h2 className="text-sm font-bold text-foreground">
             {secure
-              ? "Objekat je bezbedan. Nisu pronađena odstupanja."
+              ? "Objekat je u redu. Nisu pronađena odstupanja."
               : `Pronađeno je ${issues.length} odstupanja tokom obilaska.`}
           </h2>
           <p className="text-xs text-muted-foreground mt-0.5 leading-relaxed">
@@ -331,7 +331,7 @@ export default async function VisitReportPage({
 
         <span className="inline-flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-bold bg-slate-900 border border-slate-700 text-slate-300 self-start sm:self-auto">
           <ShieldCheck className="w-4 h-4 text-emerald-400" />
-          Zaštićen pristup
+          Privatan pristup
         </span>
       </section>
 

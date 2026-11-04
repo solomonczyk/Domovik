@@ -1,5 +1,5 @@
 import { getTranslations } from "next-intl/server";
-import { FileText, Download, ShieldCheck, KeyRound } from "lucide-react";
+import { FileText, Download, FileCheck, KeyRound } from "lucide-react";
 import { getDocuments, getProperty } from "@/lib/dal";
 
 export default async function DashboardDocumentsPage({
@@ -21,7 +21,7 @@ export default async function DashboardDocumentsPage({
           {t("documents")}
         </h1>
         <p className="text-xs sm:text-sm text-muted-foreground mt-0.5">
-          Pravna dokumentacija, overeni ugovori, zapisnici o sefovskom deponovanju ključeva i računi.
+          Pravna dokumentacija, overeni ugovori, zapisnici i računi.
         </p>
       </div>
 
@@ -29,14 +29,14 @@ export default async function DashboardDocumentsPage({
       <div className="p-6 sm:p-8 rounded-3xl bg-linear-to-br from-primary/10 via-primary/5 to-transparent border border-primary/20 shadow-sm flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6">
         <div className="flex items-start gap-4">
           <div className="w-12 h-12 rounded-2xl bg-primary text-white flex items-center justify-center shrink-0 shadow-md">
-            <ShieldCheck className="w-6 h-6" />
+            <FileCheck className="w-6 h-6" />
           </div>
           <div>
             <span className="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase bg-emerald-500/10 text-emerald-600 border border-emerald-500/20 mb-1 inline-block">
               Pravno važeći ugovor
             </span>
             <h2 className="text-base sm:text-lg font-bold text-foreground">
-              Ugovor o redovnom nadzoru i čuvanju nepokretnosti #DOM-2026-084
+              Ugovor o redovnim obilascima i održavanju nepokretnosti #DOM-2026-084
             </h2>
             <p className="text-xs text-muted-foreground mt-0.5">
               Objekat: {property.address} • Zaključen na neodređeno vreme uz otkazni rok od 30 dana.
@@ -61,10 +61,10 @@ export default async function DashboardDocumentsPage({
           </div>
           <div>
             <h3 className="text-sm font-bold text-foreground">
-              Zapisnik o preuzimanju i sefovskom čuvanju ključeva
+              Zapisnik o preuzimanju ključeva
             </h3>
             <p className="text-xs text-muted-foreground">
-              Ključevi deponovani u namenskom protivpožarnom sefu: <strong>{property.keySafeCode}</strong>
+              Ključevi se čuvaju po dogovoru i evidentiraju u skladu sa ugovorom.
             </p>
           </div>
         </div>

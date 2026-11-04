@@ -141,7 +141,7 @@ export function DashboardShell({ user, property, children }: DashboardShellProps
             </button>
             <div className="hidden sm:flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 text-emerald-600 text-xs font-bold border border-emerald-500/20">
               <span className="w-2 h-2 rounded-full bg-emerald-500"></span>
-              <span>24/7 Aktivna zaštita</span>
+              <span>Redovni obilasci</span>
             </div>
           </div>
 
