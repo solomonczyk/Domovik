@@ -17,7 +17,7 @@
   },
   "metadata": {
     "title": "Domovik — Regular visits and home care in Serbia",
-    "description": "Regular tours, condition checks, photo and video reports and additional maintenance services for houses and apartments in Serbia."
+    "description": "Regular visits, condition checks, photo and video reports and additional maintenance services for houses and apartments in Serbia."
   },
   "dashboard": {
     "title": "Client Portal",
@@ -75,13 +75,13 @@
   "hero": {
     "badge": "Regular care of your property in Serbia",
     "title": "Your home regularly inspected while you are away",
-    "subtitle": "Regular tours, detailed video and photo reports and checking the condition of installations. A peaceful dream for owners living and working abroad.",
+    "subtitle": "Regular visits, detailed video and photo reports and checking the condition of installations. Peace of mind for owners living and working abroad.",
     "ctaApply": "Request Service",
     "ctaPricing": "View Pricing",
     "stat1Value": "100%",
     "stat1Label": "Video & Photo Proof",
     "stat2Value": "Regularly",
-    "stat2Label": "Tours by appointment",
+    "stat2Label": "Visits by appointment",
     "stat3Value": "Legal",
     "stat3Label": "Written Contract"
   },
@@ -93,7 +93,7 @@
     "step2Title": "2. Agreement & Key Handover",
     "step2Desc": "We define the schedule, sign a written contract, and secure keys in a safe.",
     "step3Title": "3. Regular Inspections",
-    "step3Desc": "We visit the property, record a video, inspect the installations and condition of the facility.",
+    "step3Desc": "We visit the property, record a video, inspect the installations and condition of the property.",
     "step4Title": "4. Instant Report",
     "step4Desc": "Receive a comprehensive report with timestamped photos directly via WhatsApp or portal."
   },
@@ -246,7 +246,7 @@
     "q5": "Can you provide additional services?",
     "a5": "Yes — watering the plants, mowing the grass, trimming the trees, cleaning and preparing the home for arrival. Additional services are agreed upon and charged separately.",
     "q6": "What is your responsibility?",
-    "a6": "We provide regular tours, condition checks and reports in accordance with the contract. We are not a security agency and do not guarantee the security of the facility."
+    "a6": "We provide regular visits, condition checks and reports in accordance with the contract. We are not a security agency and do not guarantee the security of the property."
   },
   "cta": {
     "title": "Entrust the care of your home",
@@ -293,7 +293,7 @@
     "serviceAreaVal": "Vojvodina & Belgrade Region (Novi Sad, Subotica, Zrenjanin, Sombor, Pančevo, Belgrade)",
     "whatsapp": "Message us on WhatsApp",
     "viber": "Message us on Viber",
-    "emergencyNote": "Domovik is not a security agency and does not provide physical security services. We regularly visit the facility, check its condition and inform you about everything with a report."
+    "emergencyNote": "Domovik is not a security agency and does not provide physical security services. We regularly visit the property, check its condition and inform you about everything with a report."
   },
   "servicesPage": {
     "title": "Services & Care Plans",
@@ -359,7 +359,7 @@
       },
       {
         "title": "13. End of video recording",
-        "desc": "Closing the facility and gate and final condition check."
+        "desc": "Closing the property and gate and final condition check."
       },
       {
         "title": "14. Digital report delivery",
@@ -378,11 +378,11 @@
     "pillars": [
       {
         "title": "What We Do",
-        "desc": "Regular tours, condition checks, ventilation, video/photo reporting and coordination of additional services."
+        "desc": "Regular visits, condition checks, ventilation, video/photo reporting and coordination of additional services."
       },
       {
         "title": "What We DO NOT Do",
-        "desc": "We are not a security agency and we do not provide physical security services. We do not guarantee the security of the facility; we provide regular checks, documentation and timely notification of owners."
+        "desc": "We are not a security agency and we do not provide physical security services. We do not guarantee the security of the property; we provide regular checks, documentation and timely notification of owners."
       },
       {
         "title": "Dealing with keys",
@@ -444,34 +444,34 @@
       "slides": [
         {
           "badge": "Regular care of your property in Serbia",
-          "title": "Your home regularly inspected while you are away",
-          "description": "Regular tours, detailed video and photo reports and checking the condition of installations. A peaceful dream for owners living and working abroad.",
+          "title": "Your home is regularly inspected while you are away",
+          "description": "Regular visits, detailed video and photo reports and checking the condition of installations. Peace of mind for owners living and working abroad.",
           "imageAlt": "Family house in Novi Sad — regular condition check",
-          "topBadgeLabel": "Regular tour",
-          "topBadgeValue": "Object condition recorded",
+          "topBadgeLabel": "Regular visit",
+          "topBadgeValue": "Property condition recorded",
           "bottomBadgeLabel": "Photo and video report",
           "bottomBadgeValue": "Every detail documented",
           "location": "Vojvodina & Belgrade",
-          "primaryLabel": "Schedule a tour",
+          "primaryLabel": "Schedule a visit",
           "secondaryLabel": "Open the Demo Portal",
           "checklist": [
-            "Regular tours",
+            "Regular visits",
             "Photo and video report",
             "Additional services by agreement"
           ]
         },
         {
-          "badge": "Digital report after each tour",
+          "badge": "Digital report after every visit",
           "title": "Every detail of your home, on your phone",
-          "description": "A video, photos with date and location and a complete checklist arrive via WhatsApp and email after each tour.",
-          "imageAlt": "A house in Vojvodina — an example of a tour report",
+          "description": "A video, photos with date and location and a complete checklist arrive via WhatsApp and email after every visit.",
+          "imageAlt": "A house in Vojvodina — an example of a visit report",
           "topBadgeLabel": "Report #048",
           "topBadgeValue": "Completed • Novi Sad",
           "bottomBadgeLabel": "Date, time and location",
           "bottomBadgeValue": "45.2238° N, 19.8451° E",
           "location": "Novi Sad, Sremska Kamenica",
           "primaryLabel": "See a sample report",
-          "secondaryLabel": "What does the tour look like?",
+          "secondaryLabel": "What does the visit look like?",
           "checklist": [
             "Photo and video",
             "A 15-point checklist",
@@ -480,8 +480,8 @@
         },
         {
           "badge": "Additional services by agreement",
-          "title": "More than a tour — caring for your home",
-          "description": "Watering the flowers, mowing the grass, trimming the trees, cleaning and preparing the home for your arrival. Everything by agreement and at a special price.",
+          "title": "More than a visit — caring for your home",
+          "description": "Watering plants, mowing the lawn, pruning trees, cleaning, and preparing the home for your arrival. All by arrangement and at an additional cost.",
           "imageAlt": "Yard and grass maintenance",
           "topBadgeLabel": "Additional services",
           "topBadgeValue": "By arrangement",
@@ -504,13 +504,13 @@
       "live": "Live"
     },
     "threeD": {
-      "badge": "Interactive 3D overview of the object",
+      "badge": "Interactive 3D overview of the property",
       "title": "Complete insight into every zone of your house",
-      "subtitle": "Click on the points on the house and see which parts of the property our team checks during a regular tour.",
+      "subtitle": "Click on the points on the house and see which parts of the property our team checks during a regular visit.",
       "hud": "DISPLAY: Regular review",
       "security": "Outside",
       "utilities": "Installations",
-      "greenZone": "5 out of 5 review points noted",
+      "greenZone": "5 out of 5 checkpoints noted",
       "selected": "Selected: {name}",
       "quickSelect": "Quick view point selection:",
       "hotspots": [
@@ -545,7 +545,7 @@
           "detail": "Visual inspection of the facade, gutters and driveway."
         }
       ],
-      "imageAlt": "A house in Vojvodina — an example of an object"
+      "imageAlt": "A house in Vojvodina — an example of an property"
     },
     "services": {
       "badge": "Standard protocol",
@@ -580,12 +580,12 @@
     },
     "bento": {
       "badge": "A modern standard of care",
-      "title": "Everything that takes care of your home",
-      "subtitle": "Regular tours, digital reports and additional services by appointment — all in one place.",
+      "title": "Everything involved in caring for your home",
+      "subtitle": "Regular visits, digital reports and additional services by appointment — all in one place.",
       "rec": "REC • 1080p HD",
       "gps": "GPS + weather",
       "videoLabel": "Video and photo documentation",
-      "videoTitle": "Each tour is documented with photos and video",
+      "videoTitle": "Each visit is documented with photos and video",
       "videoText": "The approach to the building, the inspection of the premises and all installations are recorded on video and stored in your private archive.",
       "videoCta": "Protocol of 15 points",
       "vaultCategory": "Additional services",
@@ -604,20 +604,20 @@
       "electricText": "We read the state of the current meter and check the fuses. If we notice an irregularity, we notify you.",
       "electricFooterLabel": "Current meter status:",
       "electricFooterValue": "Photographed in the report",
-      "emergencyCategory": "Regular tours",
-      "emergencyTitle": "Tours on a schedule that suits you",
-      "emergencyText": "You choose the frequency of visits — once, twice or four times a month. Each tour includes a condition check and report.",
+      "emergencyCategory": "Regular visits",
+      "emergencyTitle": "Visits on a schedule that suits you",
+      "emergencyText": "You choose the frequency of visits — once, twice or four times a month. Each visit includes a condition check and report.",
       "emergencyFooter": "No hidden costs"
     },
     "report": {
-      "badge": "Example of a report after the tour",
-      "title": "What does the report you get after each tour look like?",
+      "badge": "Example of a report after the visit",
+      "title": "What does the report you get after every visit look like?",
       "subtitle": "No guesswork. After the visit, a full report will be sent to WhatsApp and email: photos with date and location, installation status and a link to the video.",
       "feature1Title": "Date and time",
       "feature1Desc": "The date and time of each recording are recorded in the metadata.",
-      "feature2Title": "Tour location",
-      "feature2Desc": "Confirmation that the associate was at the facility's address.",
-      "feature3Title": "HD video of the tour",
+      "feature2Title": "Visit location",
+      "feature2Desc": "Confirmation that the team member was at the property's address.",
+      "feature3Title": "HD video of the visit",
       "feature3Desc": "Private archived video of driveways, windows and rooms.",
       "phoneTitle": "Domovik Report #048",
       "phoneLocation": "Novi Sad, Sremska Kamenica",
@@ -633,7 +633,7 @@
       "check3Value": "Closed and checked",
       "check4": "Mailbox",
       "check4Value": "3 letters (photographed)",
-      "videoCta": "Watch the HD video of the tour (03:45 min)"
+      "videoCta": "Watch the HD video of the visit (03:45 min)"
     },
     "additionalEyebrow": "Additional services",
     "targetEyebrow": "Who is it intended for?",

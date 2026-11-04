@@ -75,13 +75,13 @@
   "hero": {
     "badge": "Regelmäßige Betreuung Ihrer Immobilie in Serbien",
     "title": "Während Ihrer Abwesenheit wird Ihr Zuhause regelmäßig überprüft",
-    "subtitle": "Regelmäßige Führungen, ausführliche Video- und Fotoreportagen und Überprüfung des Anlagenzustandes. Ein friedlicher Traum für Eigentümer, die im Ausland leben und arbeiten.",
+    "subtitle": "Regelmäßige Besuche, ausführliche Video- und Fotoreportagen und Überprüfung des Immobilienzustands. Ruhe und Zuverlässigkeit für Eigentümer, die im Ausland leben und arbeiten.",
     "ctaApply": "Anfrage senden",
     "ctaPricing": "Pakete ansehen",
     "stat1Value": "100%",
     "stat1Label": "Video- & Fotodokumentation",
     "stat2Value": "Regelmäßig",
-    "stat2Label": "Führungen nach Vereinbarung",
+    "stat2Label": "Besuche nach Vereinbarung",
     "stat3Value": "Rechtlich",
     "stat3Label": "Schriftlicher Vertrag"
   },
@@ -93,7 +93,7 @@
     "step2Title": "2. Vereinbarung & Schlüsselübergabe",
     "step2Desc": "Wir legen Besuchsintervalle fest, schließen den Vertrag ab und verwahren die Schlüssel im Safe.",
     "step3Title": "3. Regelmäßige Kontrollen",
-    "step3Desc": "Wir besichtigen die Immobilie, nehmen ein Video auf, prüfen die Installationen und den Zustand der Anlage.",
+    "step3Desc": "Wir besichtigen die Immobilie, nehmen ein Video auf, prüfen die Installationen und den Zustand der Immobilie.",
     "step4Title": "4. Bericht auf Ihr Smartphone",
     "step4Desc": "Am selben Tag erhalten Sie den vollständigen Prüfbericht mit Fotos per WhatsApp oder Portal."
   },
@@ -147,7 +147,7 @@
     },
     "foreignOwners": {
       "title": "Internationale Eigentümer in Serbien",
-      "desc": "Besitzer von Ferien- oder Anlageimmobilien, die einen deutschsprachigen, verlässlichen Ansprechpartner suchen."
+      "desc": "Besitzer von Ferien- oder Ferienimmobilien, die einen deutschsprachigen, verlässlichen Ansprechpartner suchen."
     },
     "travelWorkers": {
       "title": "Berufspendler, Fernfahrer und Seeleute",
@@ -246,7 +246,7 @@
     "q5": "Können Sie zusätzliche Dienstleistungen anbieten?",
     "a5": "Ja – die Pflanzen gießen, den Rasen mähen, die Bäume beschneiden, das Haus reinigen und für die Ankunft vorbereiten. Zusätzliche Leistungen werden gesondert vereinbart und verrechnet.",
     "q6": "Was ist Ihre Verantwortung?",
-    "a6": "Wir bieten regelmäßige Besichtigungen, Zustandsprüfungen und vertragsgemäße Berichte an. Wir sind kein Sicherheitsdienst und übernehmen keine Gewähr für die Sicherheit der Anlage."
+    "a6": "Wir bieten regelmäßige Besichtigungen, Zustandsprüfungen und vertragsgemäße Berichte an. Wir sind kein Sicherheitsdienst und übernehmen keine Gewähr für die Sicherheit der Immobilie."
   },
   "cta": {
     "title": "Vertrauen Sie die Pflege Ihres Zuhauses an",
@@ -293,7 +293,7 @@
     "serviceAreaVal": "Vojvodina & Region Belgrad (Novi Sad, Subotica, Zrenjanin, Sombor, Pančevo, Belgrad)",
     "whatsapp": "Nachricht per WhatsApp",
     "viber": "Nachricht per Viber",
-    "emergencyNote": "Domovik ist keine Sicherheitsagentur und bietet keine physischen Sicherheitsdienste an. Wir besichtigen die Anlage regelmäßig, prüfen den Zustand und informieren Sie mit einem Bericht über alles."
+    "emergencyNote": "Domovik ist keine Sicherheitsagentur und bietet keine physischen Sicherheitsdienste an. Wir besichtigen die Immobilie regelmäßig, prüfen den Zustand und informieren Sie mit einem Bericht über alles."
   },
   "servicesPage": {
     "title": "Unsere Dienstleistungen & Pakete",
@@ -359,7 +359,7 @@
       },
       {
         "title": "13. Abschluss der Videoaufzeichnung",
-        "desc": "Schließung der Anlage und des Tores sowie abschließende Zustandsprüfung."
+        "desc": "Schließung der Immobilie und des Tores sowie abschließende Zustandsprüfung."
       },
       {
         "title": "14. Versand des digitalen Berichts",
@@ -382,7 +382,7 @@
       },
       {
         "title": "Was wir NICHT leisten",
-        "desc": "Wir sind keine Sicherheitsagentur und bieten keine physischen Sicherheitsdienste an. Wir übernehmen keine Garantie für die Sicherheit der Anlage; Wir sorgen für regelmäßige Kontrollen, Dokumentation und rechtzeitige Benachrichtigung der Eigentümer."
+        "desc": "Wir sind keine Sicherheitsagentur und bieten keine physischen Sicherheitsdienste an. Wir übernehmen keine Garantie für die Sicherheit der Immobilie; Wir sorgen für regelmäßige Kontrollen, Dokumentation und rechtzeitige Benachrichtigung der Eigentümer."
       },
       {
         "title": "Umgang mit Schlüsseln",
@@ -445,25 +445,25 @@
         {
           "badge": "Regelmäßige Betreuung Ihrer Immobilie in Serbien",
           "title": "Während Ihrer Abwesenheit wird Ihr Zuhause regelmäßig überprüft",
-          "description": "Regelmäßige Führungen, ausführliche Video- und Fotoreportagen und Überprüfung des Anlagenzustandes. Ein friedlicher Traum für Eigentümer, die im Ausland leben und arbeiten.",
+          "description": "Regelmäßige Besuche, ausführliche Video- und Fotoreportagen und Überprüfung des Immobilienzustands. Ruhe und Zuverlässigkeit für Eigentümer, die im Ausland leben und arbeiten.",
           "imageAlt": "Einfamilienhaus in Novi Sad – regelmäßige Zustandsprüfung",
-          "topBadgeLabel": "Regelmäßige Tour",
+          "topBadgeLabel": "Regelmäßiger Besuch",
           "topBadgeValue": "Objektzustand erfasst",
           "bottomBadgeLabel": "Foto- und Videobericht",
           "bottomBadgeValue": "Jedes Detail dokumentiert",
           "location": "Vojvodina und Belgrad",
-          "primaryLabel": "Planen Sie eine Tour",
+          "primaryLabel": "Planen Sie eine Besuch",
           "secondaryLabel": "Öffnen Sie das Demo-Portal",
           "checklist": [
-            "Regelmäßige Führungen",
+            "Regelmäßige Besuche",
             "Foto- und Videobericht",
             "Zusatzleistungen nach Vereinbarung"
           ]
         },
         {
-          "badge": "Digitaler Bericht nach jeder Tour",
+          "badge": "Digitaler Bericht nach jedem Besuch",
           "title": "Jedes Detail Ihres Zuhauses auf Ihrem Telefon",
-          "description": "Nach jeder Tour erhalten Sie per WhatsApp und E-Mail ein Video, Fotos mit Datum und Ort sowie eine vollständige Checkliste.",
+          "description": "Nach jedem Besuch erhalten Sie per WhatsApp und E-Mail ein Video, Fotos mit Datum und Ort sowie eine vollständige Checkliste.",
           "imageAlt": "Ein Haus in der Vojvodina – ein Beispiel für einen Reisebericht",
           "topBadgeLabel": "Bericht Nr. 048",
           "topBadgeValue": "Abgeschlossen • Novi Sad",
@@ -471,7 +471,7 @@
           "bottomBadgeValue": "45,2238° N, 19,8451° E",
           "location": "Novi Sad, Sremska Kamenica",
           "primaryLabel": "Sehen Sie sich einen Beispielbericht an",
-          "secondaryLabel": "Wie sieht die Tour aus?",
+          "secondaryLabel": "Wie sieht der Besuch aus?",
           "checklist": [
             "Foto und Video",
             "Eine 15-Punkte-Checkliste",
@@ -480,7 +480,7 @@
         },
         {
           "badge": "Zusatzleistungen nach Vereinbarung",
-          "title": "Mehr als eine Tour – die Pflege Ihres Zuhauses",
+          "title": "Mehr als eine Besuch – die Pflege Ihres Zuhauses",
           "description": "Die Blumen gießen, den Rasen mähen, die Bäume beschneiden, das Haus reinigen und für Ihre Ankunft vorbereiten. Alles nach Vereinbarung und zum Sonderpreis.",
           "imageAlt": "Garten- und Rasenpflege",
           "topBadgeLabel": "Zusätzliche Dienstleistungen",
@@ -585,7 +585,7 @@
       "rec": "REC • 1080p HD",
       "gps": "GPS + Wetter",
       "videoLabel": "Video- und Fotodokumentation",
-      "videoTitle": "Jede Tour wird mit Fotos und Videos dokumentiert",
+      "videoTitle": "Jede Besuch wird mit Fotos und Videos dokumentiert",
       "videoText": "Die Annäherung an das Gebäude, die Besichtigung der Räumlichkeiten und aller Installationen werden auf Video aufgezeichnet und in Ihrem privaten Archiv gespeichert.",
       "videoCta": "Protokoll von 15 Punkten",
       "vaultCategory": "Zusätzliche Dienstleistungen",
@@ -604,20 +604,20 @@
       "electricText": "Wir lesen den Zustand des Stromzählers ab und prüfen die Sicherungen. Wenn uns eine Unregelmäßigkeit auffällt, benachrichtigen wir Sie.",
       "electricFooterLabel": "Aktueller Zählerstand:",
       "electricFooterValue": "Im Bericht fotografiert",
-      "emergencyCategory": "Regelmäßige Führungen",
-      "emergencyTitle": "Touren nach einem Zeitplan, der zu Ihnen passt",
-      "emergencyText": "Sie wählen die Häufigkeit der Besuche – einmal, zweimal oder viermal im Monat. Zu jeder Tour gehört eine Zustandsprüfung und ein Bericht.",
+      "emergencyCategory": "Regelmäßige Besuche",
+      "emergencyTitle": "Besuche nach einem Zeitplan, der zu Ihnen passt",
+      "emergencyText": "Sie wählen die Häufigkeit der Besuche – einmal, zweimal oder viermal im Monat. Zu jedem Besuch gehört eine Zustandsprüfung und ein Bericht.",
       "emergencyFooter": "Keine versteckten Kosten"
     },
     "report": {
-      "badge": "Beispiel eines Berichts nach der Tour",
-      "title": "Wie sieht der Bericht aus, den Sie nach jeder Tour erhalten?",
+      "badge": "Beispiel eines Berichts nach dem Besuch",
+      "title": "Wie sieht der Bericht aus, den Sie nach jedem Besuch erhalten?",
       "subtitle": "Kein Rätselraten. Nach dem Besuch wird ein vollständiger Bericht an WhatsApp und E-Mail gesendet: Fotos mit Datum und Ort, Installationsstatus und ein Link zum Video.",
       "feature1Title": "Datum und Uhrzeit",
       "feature1Desc": "In den Metadaten werden Datum und Uhrzeit jeder Aufnahme erfasst.",
-      "feature2Title": "Tourort",
+      "feature2Title": "Besuchsort",
       "feature2Desc": "Bestätigung, dass sich der Mitarbeiter an der Adresse der Einrichtung aufgehalten hat.",
-      "feature3Title": "HD-Video der Tour",
+      "feature3Title": "HD-Video dem Besuch",
       "feature3Desc": "Privat archiviertes Video von Einfahrten, Fenstern und Räumen.",
       "phoneTitle": "Domovik-Bericht Nr. 048",
       "phoneLocation": "Novi Sad, Sremska Kamenica",
@@ -633,7 +633,7 @@
       "check3Value": "Geschlossen und überprüft",
       "check4": "Briefkasten",
       "check4Value": "3 Buchstaben (fotografiert)",
-      "videoCta": "Sehen Sie sich das HD-Video der Tour an (03:45 Min.)"
+      "videoCta": "Sehen Sie sich das HD-Video dem Besuch an (03:45 Min.)"
     },
     "additionalEyebrow": "Zusätzliche Dienstleistungen",
     "targetEyebrow": "Für wen ist es gedacht?",

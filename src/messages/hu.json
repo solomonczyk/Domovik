@@ -17,7 +17,7 @@
   },
   "metadata": {
     "title": "Domovik — Rendszeres látogatások és otthoni ápolás Szerbiában",
-    "description": "Rendszeres túrák, állapotellenőrzések, fotó- és videóriportok, valamint további karbantartási szolgáltatások szerbiai házakhoz és apartmanokhoz."
+    "description": "Rendszeres látogatások, állapotellenőrzések, fotó- és videóriportok, valamint további karbantartási szolgáltatások szerbiai házakhoz és apartmanokhoz."
   },
   "dashboard": {
     "title": "Ügyfélkapu",
@@ -75,7 +75,7 @@
   "hero": {
     "badge": "Ingatlanának rendszeres gondozása Szerbiában",
     "title": "Ha távol van, rendszeresen ellenőrzik otthonát",
-    "subtitle": "Rendszeres túrák, részletes videó- ​​és fotóriportok, valamint a telepítések állapotának ellenőrzése. Békés álom külföldön élő és dolgozó tulajdonosok számára.",
+    "subtitle": "Rendszeres látogatások, részletes videó- ​​és fotóriportok, valamint a telepítések állapotának ellenőrzése. Békés álom külföldön élő és dolgozó tulajdonosok számára.",
     "ctaApply": "Ajánlatkérés",
     "ctaPricing": "Csomagok megtekintése",
     "stat1Value": "100%",
@@ -93,7 +93,7 @@
     "step2Title": "2. Megállapodás és kulcsátadás",
     "step2Desc": "Meghatározzuk a látogatási rendet, aláírjuk a szerződést, a kulcsokat páncélszekrényben őrizzük.",
     "step3Title": "3. Rendszeres felülvizsgálat",
-    "step3Desc": "Meglátogatjuk az ingatlant, videót rögzítünk, megvizsgáljuk a létesítmény beépítését, állapotát.",
+    "step3Desc": "Meglátogatjuk az ingatlant, videót rögzítünk, megvizsgáljuk az ingatlan beépítését, állapotát.",
     "step4Title": "4. Azonnali digitális jelentés",
     "step4Desc": "Még aznap megkapja a részletes jelentést fényképekkel WhatsApp-on vagy a portálon keresztül."
   },
@@ -246,7 +246,7 @@
     "q5": "Tud további szolgáltatásokat nyújtani?",
     "a5": "Igen – a növények öntözése, fűnyírás, fák nyírása, takarítás és az otthon előkészítése az érkezésre. A további szolgáltatásokról külön állapodnak meg, és külön díjat számítanak fel.",
     "q6": "Mi a te felelősséged?",
-    "a6": "Rendszeres túrákat, állapotellenőrzéseket, beszámolókat biztosítunk a szerződésnek megfelelően. Nem vagyunk biztonsági ügynökség, és nem vállalunk garanciát a létesítmény biztonságára."
+    "a6": "Rendszeres látogatásokat, állapotellenőrzéseket, beszámolókat biztosítunk a szerződésnek megfelelően. Nem vagyunk biztonsági ügynökség, és nem vállalunk garanciát az ingatlan biztonságára."
   },
   "cta": {
     "title": "Bízza otthona gondozását",
@@ -293,7 +293,7 @@
     "serviceAreaVal": "Vajdaság és Belgrád környéke (Újvidék, Szabadka, Nagybecskerek, Zombor, Pancsova, Belgrád)",
     "whatsapp": "Írjon nekünk WhatsApp-on",
     "viber": "Írjon nekünk Viber-en",
-    "emergencyNote": "A Domovik nem biztonsági ügynökség, és nem nyújt fizikai biztonsági szolgáltatásokat. Rendszeresen járjuk a létesítményt, ellenőrizzük állapotát és mindenről jegyzőkönyvvel tájékoztatunk."
+    "emergencyNote": "A Domovik nem biztonsági ügynökség, és nem nyújt fizikai biztonsági szolgáltatásokat. Rendszeresen járjuk az ingatlant, ellenőrizzük állapotát és mindenről jegyzőkönyvvel tájékoztatunk."
   },
   "servicesPage": {
     "title": "Szolgáltatásaink és csomagjaink",
@@ -359,7 +359,7 @@
       },
       {
         "title": "13. Videófelvétel befejezése",
-        "desc": "A létesítmény és a kapu zárása és végső állapotellenőrzés."
+        "desc": "Az ingatlan és a kapu zárása és végső állapotellenőrzés."
       },
       {
         "title": "14. Digitális jelentés elküldése",
@@ -378,11 +378,11 @@
     "pillars": [
       {
         "title": "Mit vállalunk",
-        "desc": "Rendszeres túrák, állapotellenőrzés, szellőztetés, videó/fotó riport és kiegészítő szolgáltatások koordinálása."
+        "desc": "Rendszeres látogatások, állapotellenőrzés, szellőztetés, videó/fotó riport és kiegészítő szolgáltatások koordinálása."
       },
       {
         "title": "Mit NEM vállalunk",
-        "desc": "Nem vagyunk biztonsági ügynökség, és nem nyújtunk fizikai biztonsági szolgáltatásokat. Nem garantáljuk a létesítmény biztonságát; rendszeres ellenőrzéseket, dokumentációt és a tulajdonosok időben történő értesítését biztosítjuk."
+        "desc": "Nem vagyunk biztonsági ügynökség, és nem nyújtunk fizikai biztonsági szolgáltatásokat. Nem garantáljuk az ingatlan biztonságát; rendszeres ellenőrzéseket, dokumentációt és a tulajdonosok időben történő értesítését biztosítjuk."
       },
       {
         "title": "Kulcsokkal való foglalkozás",
@@ -445,9 +445,9 @@
         {
           "badge": "Ingatlanának rendszeres gondozása Szerbiában",
           "title": "Ha távol van, rendszeresen ellenőrzik otthonát",
-          "description": "Rendszeres túrák, részletes videó- ​​és fotóriportok, valamint a telepítések állapotának ellenőrzése. Békés álom külföldön élő és dolgozó tulajdonosok számára.",
+          "description": "Rendszeres látogatások, részletes videó- ​​és fotóriportok, valamint a telepítések állapotának ellenőrzése. Békés álom külföldön élő és dolgozó tulajdonosok számára.",
           "imageAlt": "Újvidéki családi ház – rendszeres állapotellenőrzés",
-          "topBadgeLabel": "Rendszeres túra",
+          "topBadgeLabel": "Rendszeres látogatás",
           "topBadgeValue": "Az objektum állapota rögzített",
           "bottomBadgeLabel": "Fotó és videó riport",
           "bottomBadgeValue": "Minden részlet dokumentálva",
@@ -455,23 +455,23 @@
           "primaryLabel": "Tervezz be egy túrát",
           "secondaryLabel": "Nyissa meg a Demo portált",
           "checklist": [
-            "Rendszeres túrák",
+            "Rendszeres látogatások",
             "Fotó és videó riport",
             "További szolgáltatások megegyezés szerint"
           ]
         },
         {
-          "badge": "Digitális riport minden túra után",
+          "badge": "Digitális riport minden látogatás után",
           "title": "Otthonának minden részlete, a telefonon",
           "description": "Videó, fotók dátummal és hellyel, valamint teljes ellenőrzőlista érkezik a WhatsApp-on és e-mailen keresztül minden körút után.",
-          "imageAlt": "Egy ház Vajdaságban — példa egy túrabeszámolóra",
+          "imageAlt": "Egy ház Vajdaságban — példa egy látogatási riportra",
           "topBadgeLabel": "048-as jelentés",
           "topBadgeValue": "Elkészült • Újvidék",
           "bottomBadgeLabel": "Dátum, idő és hely",
           "bottomBadgeValue": "45,2238° é. sz., 19,8451° K",
           "location": "Újvidék, Sremska Kamenica",
           "primaryLabel": "Tekintse meg a jelentésmintát",
-          "secondaryLabel": "Hogy néz ki a túra?",
+          "secondaryLabel": "Hogy zajlik egy látogatás?",
           "checklist": [
             "Fotó és videó",
             "15 pontos ellenőrző lista",
@@ -480,7 +480,7 @@
         },
         {
           "badge": "További szolgáltatások megegyezés szerint",
-          "title": "Több, mint egy túra – gondoskodjon otthonáról",
+          "title": "Több, mint egy látogatás – gondoskodjon otthonáról",
           "description": "Virágok öntözése, fűnyírás, fák nyírása, takarítás és az otthon előkészítése az érkezésedre. Minden megegyezés szerint és akciós áron.",
           "imageAlt": "Udvar és fű karbantartása",
           "topBadgeLabel": "További szolgáltatások",
@@ -506,7 +506,7 @@
     "threeD": {
       "badge": "Interaktív 3D-s áttekintés az objektumról",
       "title": "Teljes betekintés a ház minden zónájába",
-      "subtitle": "Kattintson a ház pontjaira, és nézze meg, hogy csapatunk az ingatlan mely részeit ellenőrzi egy rendszeres túra során.",
+      "subtitle": "Kattintson a ház pontjaira, és nézze meg, hogy csapatunk az ingatlan mely részeit ellenőrzi egy rendszeres látogatás során.",
       "hud": "KIJELZŐ: Rendszeres felülvizsgálat",
       "security": "Kívül",
       "utilities": "Telepítések",
@@ -581,7 +581,7 @@
     "bento": {
       "badge": "Korszerű ellátási színvonal",
       "title": "Minden, ami gondoskodik otthonáról",
-      "subtitle": "Rendszeres túrák, digitális jelentések és kiegészítő szolgáltatások előzetes egyeztetés alapján – mindez egy helyen.",
+      "subtitle": "Rendszeres látogatások, digitális jelentések és kiegészítő szolgáltatások előzetes egyeztetés alapján – mindez egy helyen.",
       "rec": "REC • 1080p HD",
       "gps": "GPS + időjárás",
       "videoLabel": "Videó és fotó dokumentáció",
@@ -604,20 +604,20 @@
       "electricText": "Leolvassuk az árammérő állapotát és ellenőrizzük a biztosítékokat. Ha szabálytalanságot észlelünk, értesítjük.",
       "electricFooterLabel": "A mérő aktuális állapota:",
       "electricFooterValue": "A riportban fényképezve",
-      "emergencyCategory": "Rendszeres túrák",
+      "emergencyCategory": "Rendszeres látogatások",
       "emergencyTitle": "Túrák az Ön számára megfelelő menetrend szerint",
-      "emergencyText": "Ön választhatja meg a látogatások gyakoriságát – havonta egyszer, kétszer vagy négyszer. Minden túra állapotellenőrzést és jelentést tartalmaz.",
+      "emergencyText": "Ön választhatja meg a látogatások gyakoriságát – havonta egyszer, kétszer vagy négyszer. Minden látogatás állapotellenőrzést és jelentést tartalmaz.",
       "emergencyFooter": "Nincsenek rejtett költségek"
     },
     "report": {
-      "badge": "Példa a túra utáni beszámolóra",
-      "title": "Hogyan néz ki az egyes túrák után kapott beszámoló?",
+      "badge": "Példa a látogatás utáni riportra",
+      "title": "Hogyan néz ki az egyes látogatások után kapott beszámoló?",
       "subtitle": "Nincs találgatás. A látogatás után teljes jelentést küldünk a WhatsApp-nak és e-mailben: fényképeket a dátummal és a hellyel, a telepítés állapotával és a videó linkjével.",
       "feature1Title": "Dátum és idő",
       "feature1Desc": "Az egyes felvételek dátuma és időpontja rögzítésre kerül a metaadatokban.",
-      "feature2Title": "A túra helyszíne",
-      "feature2Desc": "Annak megerősítése, hogy a munkatárs a létesítmény címén tartózkodik.",
-      "feature3Title": "HD videó a turnéról",
+      "feature2Title": "A látogatás helyszíne",
+      "feature2Desc": "Annak megerősítése, hogy a munkatárs az ingatlan címén tartózkodik.",
+      "feature3Title": "HD-videó a látogatásról",
       "feature3Desc": "Privát archivált videó a feljárókról, ablakokról és szobákról.",
       "phoneTitle": "Domovik jelentés #048",
       "phoneLocation": "Újvidék, Sremska Kamenica",
@@ -633,7 +633,7 @@
       "check3Value": "Lezárva és ellenőrizve",
       "check4": "Postafiók",
       "check4Value": "3 betű (fényképezve)",
-      "videoCta": "Tekintse meg a turné HD videóját (03:45 perc)"
+      "videoCta": "Tekintse meg a a látogatás HD-videóját (03:45 perc)"
     },
     "additionalEyebrow": "További szolgáltatások",
     "targetEyebrow": "Kinek szánják?",
